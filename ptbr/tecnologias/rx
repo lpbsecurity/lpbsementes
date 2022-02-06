@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="application-name" content="">
+    <meta name="description" content="Como enfrentar a Ramulária e maximizar seus resultado.">
+    <meta name="apple-mobile-web-app-title" content="TMG">
+    <meta name="application-name" content="TMG">
+    <meta name="msapplication-TileColor" content="#246886">
+    <meta name="theme-color" content="#246886"> 
+    
+    <meta property="og:title" content="Tolerância à Ramulária - TMG" />
+    <meta property="og:url" content="https://www.tmg.agr.br/ptbr/tecnologias/rx" />    
+    <meta property="og:description" content="Como enfrentar a Ramulária e maximizar seus resultado." />  
+    <meta property="og:type" content="article" />
+    <meta property="og:locale" content="pt-br" /> 
+    <meta property="og:image" content="https://www.tmg.agr.br/vendor/styles/rx/images/rx.png" />
+    <meta property="article:author" content="https://www.facebook.com/tmgenetica" />
+    <meta property="article:publisher" content="https://www.facebook.com/tmgenetica" /> 
+    <meta property="fb:app_id" content="383319985016928" />
+    <meta name="facebook-domain-verification" content="3vlls5csfxgmbragzj42oz5boumbfa" />
+    
+    <title>Tolerância à Ramulária - TMG</title>
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.tmg.agr.br/images/icons/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.tmg.agr.br/images/icons/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.tmg.agr.br/images/icons/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://www.tmg.agr.br/images/icons/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://www.tmg.agr.br/images/icons/favicon/safari-pinned-tab.svg" color="#246886">
+
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.css">
+            
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/normalize.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/animate/animate.css">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,800">
+    <link rel="stylesheet" href="https://use.typekit.net/mjw2ffj.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.css" />
+
+            <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/fancybox/dist/jquery.fancybox.min.css">
+        <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/lity/lity.css">
+        
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style.css?552265278">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style2.css?739952827">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/responsive.css?389468806">
+    
+            <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/rx/styles/rx.css?355674695">
+                
+    <script src="https://www.tmg.agr.br/vendor/modernizr/modernizr.js"></script>
+    
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '681180552296000'); 
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=681180552296000&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->    
+    
+    <!-- Google ADS -->    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-580154035"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-580154035');
+    </script>
+    <!-- Google ADS -->    
+    
+    <!-- Cookie-Script -->
+    <script src="https://config.confirmic.com/config.js?id=prj:2884a71c-0a76-4f48-ac59-a6f0fe60822d" crossorigin charset="utf-8"></script>
+    <script src="https://consent-manager.confirmic.com/embed.js" crossorigin charset="utf-8"></script>
+
+</head>    <body>
+        <header class="black">
+    <div class="container">
+        <nav id="mainNav" class="navbar navbar-expand-lg navbar-light bg-light">
+            <h1 class="navbar-brand m-0">
+                <a class="logo js-scroll-trigger" href="https://www.tmg.agr.br/" title="TMG"><img src="https://www.tmg.agr.br/images/tmgw.svg" style="width: 100px" alt="TMG"></a>
+            </h1>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" 
+                    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Navegação">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav right-menu light-bg">
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/institucional">Institucional</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuCtv" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Cultivares                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuCtv">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/soja">Soja</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/algodao">Algodão</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuTec" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Tecnologias                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuTec">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/inox">Inox<sup>&reg;</sup></a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/rx">Rx</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/ampla-resistencia-cisto">Ampla Resistência à Cisto</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/produtividade">Produtividade</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/licenciados">Licenciados</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/noticias">Notícias</a>
+                    </li>
+                    <li class="nav-item dropdown m-contato">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuContato" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Contato                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuContato">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/fale-conosco">Fale Conosco</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/equipe">Equipe Comercial</a>
+<!--                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/trabalheconosco">Trabalhe com a gente</a>-->
+                        </div>
+                    </li>
+                    
+                    
+                </ul>
+                <!-- <ul class="right-menu light-bg">
+                    <li class="nav-item">
+                        <select class="language">
+                            <option value="">PT</option>
+                            <option value="">EN</option>
+                            <option value="">ES</option>
+                        </select>
+                    </li>
+                </ul> -->
+            </div>
+        </nav>
+    </div>
+</header>
+<div class="d-none d-print-block mb-5 text-center">
+    <img src="https://www.tmg.agr.br/images/tmgb.png" alt="TMG">
+</div>
+        <div class="img-1">
+            
+            <div class="container-fluid p-0 m-0">
+                <div class="parallax-window" data-parallax="scroll" data-image-src="https://www.tmg.agr.br/vendor/styles/rx/images/backtop.jpg">
+                    <div class="img-1-body container">
+                        <img src="https://www.tmg.agr.br/vendor/styles/rx/images/rx.png?1" />
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="text-1">
+            
+            <div class="container text-center">
+                
+                <h1 class="background-text-red mb-5">Como enfrentar a Ramulária<br />e maximizar seus resultados</h1>
+                <p>Quem planta algodão, quando ouve falar em Ramulária já vai logo pensando em prejuízo, também não é pra menos, a doença causada pelo fungo <em>Ramularia areola Atk</em>. é motivo de dor de cabeça para o produtor e não é de hoje. <br />
+                    A Ramulária é considerada uma das principais doenças do algodão e impacta diretamente nos resultados da lavoura, desde a quantidade de aplicação de fungicida até a produtividade.</p>
+                <p>Mas fica tranquilo(a), a gente reuniu aqui algumas dicas de como identificar a Ramulária e quais as melhores práticas para lidar com a doença no campo.</p>
+
+            </div>
+            
+        </div>
+        
+        <div class="text-2">
+            
+            <div class="container">
+                
+                <div class="row mb-4">
+                    <div class="col">
+                        <h2 class="mb-2 text-center">COMO IDENTIFICAR?</h1>
+                        <p class="text-center">São três os principais sintomas que indicam a presença da Ramulária na lavoura, veja abaixo como identificar:</p>
+                    </div>
+                </div>
+                <div class="row text-left mb-5">
+                    <div class="col-3 col-md-2 col-lg-1" style="font-size: 72px; padding-top: 24px;">01</div>
+                    <div class="col-9 col-md-10 col-lg-11">
+                        <p>No início as plantas apresentam pequenas manchas azuladas, na face inferior da folha, que evoluem para pequenas lesões necróticas, angulosas e com esporulações do fungo de aspecto farináceo, de cor branca e/ou amarela, dá uma olhada:</p>
+                        <div class="row">
+                            <div class="col-12 col-md-6 col-lg-6">
+                                <img src="https://www.tmg.agr.br/vendor/styles/rx/images/id_01.jpg" />
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-6">
+                                <img src="https://www.tmg.agr.br/vendor/styles/rx/images/id_02.jpg" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row text-left mb-5">
+                    <div class="col-3 col-md-2 col-lg-1" style="font-size: 72px; padding-top: 20px;">02</div>
+                    <div class="col-9 col-md-10 col-lg-11">
+                        <p>Em condições ambientais favoráveis o fungo pode esporular na face superior da folha. São observadas manchas arroxeadas, ao redor das lesões, com grande intensidade. Olha só como fica:</p>
+                        <div class="row justify-content-center">
+                            <div class="col-12 col-sm-6 col-md-6">
+                                <img src="https://www.tmg.agr.br/vendor/styles/rx/images/id_03.jpg" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row text-left">
+                    <div class="col-3 col-md-2 col-lg-1" style="font-size: 72px; padding-top: 20px;">03</div>
+                    <div class="col-9 col-md-10 col-lg-11">
+                        <p>Em condições de alta severidade ocorre a desfolha precoce, principalmente, das folhas do terço inferior da planta, ocasionando perdas de até 30% na produtividade.</p>
+                    </div>
+                </div>
+                
+            </div>
+            
+        </div>
+
+        <div class="text-3 pt-5 mb-5">
+            
+            <div class="container text-center">
+                
+                <h2 class="mb-3">Qual a melhor forma de enfrentar a doença?<br /><span style="font-size: 1.3em">Cultivares com Tolerância à Ramulária</span></h2>
+                <p>Desenvolvida pela TMG e única no mundo, a Tecnologia RX é uma das grandes aliadas do cotonicultor, pois proporciona melhor manejo da Ramulária. As cultivares dotadas dessa tecnologia permitem redução do número de aplicações de fungicidas, quando comparadas com cultivares suscetíveis.</p>
+                <img src="https://www.tmg.agr.br/vendor/styles/rx/images/backc.jpg" class="d-block d-sm-none" />
+
+            </div>
+            
+        </div>
+
+        <div class="text-4 pt-4 mb-3">
+            
+            <div class="container text-center mb-4">
+                
+                <h2 class="mb-3">O segredo?<br /><span style="font-size: .8em">É o que você planta</span></h2>
+                <p>A principal estratégia de controle da Ramulária é o uso de cultivares tolerantes à doença.<br />Cultivares com esta característica são o diferencial na hora de fechar a conta dos custos de produção.</p>
+                <img src="https://www.tmg.agr.br/vendor/styles/rx/images/i_01.png" />
+
+            </div>
+            
+        </div>
+
+        <div class="text-5 gradient-green text-white p-5 mb-5">
+            
+            <div class="container text-center">
+                
+                <div class="row text-left">
+                    <div class="col-3 col-md-2 col-lg-1">
+                        <img src="https://www.tmg.agr.br/vendor/styles/rx/images/i_02.gif?1" />    
+                    </div>
+                    <div class="col-9 col-md-10 col-lg-11">
+                        <h2>ECONOMIA:</h2>
+                        <p>Plantando cultivares com tolerância à Ramulária é possível reduzir de 2 a 4 aplicações de fungicida e isso representa uma economia significativa nos custos de produção.</p>
+                    </div>
+                </div>
+
+            </div>
+            
+        </div>
+
+        <div class="text-6 my-5">
+            
+            <div class="container text-center">
+                
+                <h2 class="mb-5">Resultado:</h2>
+                <p>A utilização de cultivares RX, tolerantes à Ramulária, proporciona economia, segurança e maior tranquilidade ao produtor.</p>
+                
+                <div class="row justify-content-center">
+                    <div class="col-8">
+                        <div class="row mb-3">
+                            <div class="col-3 col-sm-1">
+                                <img src="https://www.tmg.agr.br/vendor/styles/rx/images/i_02.png?1" />
+                            </div>
+                            <div class="col-9 col-sm-11 text-left">
+                                <strong>Economia:</strong> diminui o número de aplicações;
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-3 col-sm-1">
+                                <img src="https://www.tmg.agr.br/vendor/styles/rx/images/i_03.png?1" />
+                            </div>
+                            <div class="col-9 col-sm-11 text-left">
+                                <strong>Produtividade:</strong> com o controle da doença a produtividade é maior;
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-3 col-sm-1">
+                                <img src="https://www.tmg.agr.br/vendor/styles/rx/images/i_04.png?1" />
+                            </div>
+                            <div class="col-9 col-sm-11 text-left">
+                                <strong>Tecnologia:</strong> inovadora e pioneira, desenvolvida pela TMG, uma empresa brasileira;
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-3 col-sm-1">
+                                <img src="https://www.tmg.agr.br/vendor/styles/rx/images/i_05.png?1" />
+                            </div>
+                            <div class="col-9 col-sm-11 text-left">
+                                <strong>Segurança:</strong> é uma proteção extra que soma força aos fungicidas.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            
+        </div>
+
+        <div class="text-7 my-5 pt-4">
+            
+            <div class="container text-center">
+                
+                <h2 class="my-3">REMEDIAR É PREVENIR</h2>
+                <p>Mas é claro que o manejo correto de fungicidas é sempre o melhor aliado para uma safra mais rentável.<br />O controle da mancha de Ramulária deve ser iniciado de forma preventiva</p>
+                
+                <div class="row justify-content-center mb-4">
+                    <div class="col-12 col-sm-8">
+                        <div class="row">
+                            <div class="col-1">
+                                &nbsp;
+                            </div>
+                            <div class="col-11 text-left">
+                                <strong>Primeiras aplicações:</strong> em torno de 25 dias após a emergência;
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-1">
+                                &nbsp;
+                            </div>
+                            <div class="col-11 text-left">
+                                <strong>Demais aplicações:</strong> complementadas com fungicidas efetivos, respeitando intervalos seguros.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <h2 class="mb-3">NÃO SE ENGANE&hellip;</h2>
+                
+                <div class="row justify-content-center">
+                    <div class="col-10 col-sm-8">
+                        <div class="row mb-3">
+                            <div class="col-1">
+                                &nbsp;
+                            </div>
+                            <div class="col-11 text-left">
+                                Cultivares suscetíveis, sob condições favoráveis à ocorrência da doença, demandam de 7 a 12 aplicações, em média. Isso depende:
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-2 col-sm-1">
+                                <img src="https://www.tmg.agr.br/vendor/styles/rx/images/i_check.png" />
+                            </div>
+                            <div class="col-10 col-sm-11 text-left">
+                                Da cultivar utilizada;
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-2 col-sm-1">
+                                <img src="https://www.tmg.agr.br/vendor/styles/rx/images/i_check.png" />
+                            </div>
+                            <div class="col-10 col-sm-11 text-left">
+                                Da época de semeadura;
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-2 col-sm-1">
+                                <img src="https://www.tmg.agr.br/vendor/styles/rx/images/i_check.png" />
+                            </div>
+                            <div class="col-10 col-sm-11 text-left">
+                                Da região geográfica;
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-2 col-sm-1">
+                                <img src="https://www.tmg.agr.br/vendor/styles/rx/images/i_check.png" />
+                            </div>
+                            <div class="col-10 col-sm-11 text-left">
+                                Das condições ambientais.
+                            </div>
+                        </div>                        
+                    </div>
+                </div>                
+
+            </div>
+            
+        </div>
+
+        <div class="text-8 py-5 my-5">
+            
+            <div class="container text-center mb-4">
+                
+                <h2 class="mb-3">Ensaios de controle químico<br />a campo demonstram&hellip;</h2>
+                <p>&hellip;fungicidas do grupo dos triazóis, assim como as misturas de triazóis e estrobilurinas, e/ou estrobilurinas e carboxamidas, são classificados como padrão no manejo desta doença.</p>
+                <p><strong>Mas atenção! Existem diferenças de eficácia entre estes produtos!</strong></p>
+                <p>A escolha correta destas ferramentas é determinante para o sucesso do controle.<br />
+                    <small>*Pesquise mais informações sobre o controle da Ramulária com fungicidas em instituições de pesquisa.</small>
+                </p>
+
+            </div>
+            
+        </div>
+
+        <div class="text-9 my-5">
+            
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12 col-lg-6">
+                        <img src="https://www.tmg.agr.br/vendor/styles/rx/images/cp_01.jpg" />
+                    </div>
+                    <div class="col-12 col-lg-6 pt-5 text-9-pd">
+                        <h2>O benefício é grande,<br />mas e o custo?</h2>
+                        <p class="pr-4">Apesar da segurança, da economia e das vantagens que a Tecnologia RX incorpora nas cultivares de algodão, ela não tem nenhum custo extra.</p>
+                        <p class="pr-4"><strong>Você só paga pelo valor da semente.</strong></p>
+                        <p class="pr-4">Para garantir que essa tecnologia tenha longevidade no campo é importante que você faça o seu papel como produtor e plante sementes certificadas.</p>
+                    </div>
+                </div>                
+            </div>
+            
+        </div>
+
+        <div class="text-10 py-5 my-5">
+            
+            <div class="container text-center mb-4">
+                <h2 class="mb-3">DEPOIMENTOS</h2>
+                <p>Confira o que os produtores acharam das cultivares TMG com Tecnologia RX.</p>
+                <div class="row my-5">
+                    <div class="col-12 col-lg-6">
+                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/9Aw48_0yRis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="col-12 col-lg-6">
+                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/lNrds7GvxK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                        
+                    </div>
+                </div>
+            </div>
+            
+        </div> 
+
+        <div class="text-5 container-fluid pb-5">
+            <div class="container">
+                <div class="row cultivar-info">
+                    <div class="col-12 col-md p-4">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivares/soja"><img src="https://www.tmg.agr.br/images/banner/b-portfolio.png" /></a>
+                    </div>
+                    <div class="col-12 col-md p-4">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivares/algodao"><img src="https://www.tmg.agr.br/images/banner/b-rx.png" /></a>
+                    </div>
+                </div>
+            </div>
+        </div><footer id="footer" class="d-print-none">
+    <div class="widget-area gradient-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="tm-widget wow fadeIn" data-wow-duration=".5s" data-wow-delay=".3s">
+                        <div class="tm-widget-text">
+                            <h2 class="text-center" style="font-size: 3em">#tmgenetica</h2>
+                            <h2 class="text-center">Além da Produtividade</h2>
+                            <div class="pb-3"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <p class="copyright-text">&copy; 2022 TMG Tropical Melhoramento &amp; Genética S.A.</p>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <div class="copyright-nav">
+                        <ul>
+<!--                            <li><a href="#" target="_blank">Instagram</a></li>
+                            <li><a href="#" target="_blank">Facebook</a></li>
+                            <li><a href="#" target="_blank">LinkedIn</a></li>
+                            <li><a href="#" target="_blank">Youtube</a></li>
+                            <li><a href="#" target="_blank">Flickr</a></li>-->
+                            <li><a href="https://www.tmg.agr.br/ptbr/privacidade">Política de Privacidade</a></li>
+                            <li><a href="javascript:window.Confirmic('ConsentManager:show')">Cookies</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Integrate</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Portais</a></li>
+                            <!-- <li><a href="https://novostalentos.tmg.agr.br" target="_blank">Programa Novos Talentos</a></li> -->
+                            <li><a href="http://www.tmg.agr.br/trabalheconosco" target="_blank">Trabalhe Conosco</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-2.2.0.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.easing.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.mobile.custom.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/vide/jquery.vide.min.js"></script>
+
+        <script src="https://www.tmg.agr.br/vendor/lity/lity.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/parallax/parallax.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/isotope/isotope.pkgd.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/isotope/portfolio.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/tether/tether.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/popper/popper.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/wow/wow.min.js"></script>
+<script>new WOW().init();</script>
+<script src="https://www.tmg.agr.br/vendor/styles/scripts.js?8408457944"></script>
+
+
+    </body>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-12814928-1', 'auto');
+        ga('send', 'pageview');
+    </script>    
+</html>

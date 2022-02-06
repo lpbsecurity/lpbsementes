@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="application-name" content="">
+    <meta name="description" content="Conheça agora mesmo a melhor alternativa para você ENFRENTAR A FERRUGEM e ter excelentes resultados no campo.">
+    <meta name="apple-mobile-web-app-title" content="TMG">
+    <meta name="application-name" content="TMG">
+    <meta name="msapplication-TileColor" content="#246886">
+    <meta name="theme-color" content="#246886"> 
+    
+    <meta property="og:title" content="Tecnologia Inox&reg; - TMG" />
+    <meta property="og:url" content="https://www.tmg.agr.br/ptbr/tecnologias/inox" />    
+    <meta property="og:description" content="Conheça agora mesmo a melhor alternativa para você ENFRENTAR A FERRUGEM e ter excelentes resultados no campo." />  
+    <meta property="og:type" content="article" />
+    <meta property="og:locale" content="pt-br" /> 
+    <meta property="og:image" content="https://www.tmg.agr.br/vendor/styles/inox/images/inox.webp" />
+    <meta property="article:author" content="https://www.facebook.com/tmgenetica" />
+    <meta property="article:publisher" content="https://www.facebook.com/tmgenetica" /> 
+    <meta property="fb:app_id" content="383319985016928" />
+    <meta name="facebook-domain-verification" content="3vlls5csfxgmbragzj42oz5boumbfa" />
+    
+    <title>Tecnologia Inox&reg; - TMG</title>
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.tmg.agr.br/images/icons/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.tmg.agr.br/images/icons/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.tmg.agr.br/images/icons/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://www.tmg.agr.br/images/icons/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://www.tmg.agr.br/images/icons/favicon/safari-pinned-tab.svg" color="#246886">
+
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.css">
+            
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/normalize.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/animate/animate.css">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,800">
+    <link rel="stylesheet" href="https://use.typekit.net/mjw2ffj.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.css" />
+
+            <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/fancybox/dist/jquery.fancybox.min.css">
+        <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/lity/lity.css">
+        
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style.css?685542687">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style2.css?434556259">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/responsive.css?359431777">
+    
+            <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Bungee" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Pattaya" rel="stylesheet">
+        <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/inox/styles/inox.css?618773740">
+                
+    <script src="https://www.tmg.agr.br/vendor/modernizr/modernizr.js"></script>
+    
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '681180552296000'); 
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=681180552296000&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->    
+    
+    <!-- Google ADS -->    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-580154035"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-580154035');
+    </script>
+    <!-- Google ADS -->    
+    
+    <!-- Cookie-Script -->
+    <script src="https://config.confirmic.com/config.js?id=prj:2884a71c-0a76-4f48-ac59-a6f0fe60822d" crossorigin charset="utf-8"></script>
+    <script src="https://consent-manager.confirmic.com/embed.js" crossorigin charset="utf-8"></script>
+
+</head>    <body>
+        <header class="black">
+    <div class="container">
+        <nav id="mainNav" class="navbar navbar-expand-lg navbar-light bg-light">
+            <h1 class="navbar-brand m-0">
+                <a class="logo js-scroll-trigger" href="https://www.tmg.agr.br/" title="TMG"><img src="https://www.tmg.agr.br/images/tmgw.svg" style="width: 100px" alt="TMG"></a>
+            </h1>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" 
+                    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Navegação">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav right-menu light-bg">
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/institucional">Institucional</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuCtv" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Cultivares                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuCtv">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/soja">Soja</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/algodao">Algodão</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuTec" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Tecnologias                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuTec">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/inox">Inox<sup>&reg;</sup></a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/rx">Rx</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/ampla-resistencia-cisto">Ampla Resistência à Cisto</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/produtividade">Produtividade</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/licenciados">Licenciados</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/noticias">Notícias</a>
+                    </li>
+                    <li class="nav-item dropdown m-contato">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuContato" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Contato                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuContato">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/fale-conosco">Fale Conosco</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/equipe">Equipe Comercial</a>
+<!--                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/trabalheconosco">Trabalhe com a gente</a>-->
+                        </div>
+                    </li>
+                    
+                    
+                </ul>
+                <!-- <ul class="right-menu light-bg">
+                    <li class="nav-item">
+                        <select class="language">
+                            <option value="">PT</option>
+                            <option value="">EN</option>
+                            <option value="">ES</option>
+                        </select>
+                    </li>
+                </ul> -->
+            </div>
+        </nav>
+    </div>
+</header>
+<div class="d-none d-print-block mb-5 text-center">
+    <img src="https://www.tmg.agr.br/images/tmgb.png" alt="TMG">
+</div>
+        <article class="img-1">
+            
+            <div class="container-fluid p-0 m-0">
+                
+                <div class="parallax-window" data-parallax="scroll" data-image-src="https://www.tmg.agr.br/vendor/styles/inox/images/i1.jpg?1">
+                    
+                        <div class="img-1-body container">
+
+                            <h3 class="text-center wow fadeInRight" data-wow-duration=".5s" data-wow-delay=".3s">CONHEÇA AGORA MESMO A MELHOR ALTERNATIVA PARA VOCÊ</h3>
+                            <hr />
+                            <h2 class="text-center wow zoomInDown" data-wow-duration=".5s" data-wow-delay=".3s">ENFRENTAR<br />A FERRUGEM</h2>
+                            <h4 class="text-center wow fadeInRight" data-wow-duration=".5s" data-wow-delay=".3s">e ter excelentes resultados no campo</h4>
+
+                        </div>
+                    
+                </div>
+                
+            </div>
+            
+        </article>
+        
+        <article class="text-1">
+            
+            <div class="container">
+                
+                <p>Se você cultiva soja provavelmente já ouviu falar de Ferrugem asiática e, em algum momento, teve que lidar com a doença em sua lavoura.</p>
+                <p>A Ferrugem é provocada pelo fungo <em>Phakopsora pachyrhizi</em> e é considerada um dos principais problemas enfrentados pelos produtores. Não é para menos, pois desde que chegou ao Brasil a doença vem comprometendo significativamente os resultados no campo.</p>
+                <p>Com isso, novas alternativas foram surgindo e o produtor teve a oportunidade de contar com ferramentas que pudessem o auxiliar no combate à doença.</p>
+                <p>Por isso, separamos aqui um conteúdo exclusivo que vai te ajudar, desde a identificação da doença, até o manejo correto das ferramentas.</p>
+                
+            </div>
+            
+        </article>
+        
+        <div class="video-1 container-fluid jquery-background-video-wrapper" style="height: 600px">
+            <video class="inox-background-video jquery-background-video" loop autoplay muted poster="https://www.tmg.agr.br/images/blog/1550695776450245.jpg">
+                <source src="https://www.tmg.agr.br/vendor/styles/inox/video/file.mp4" type="video/mp4">
+            </video>
+            <div class="jquery-background-video-body">
+                <div class="inox-icon-search">
+                    <svg viewBox="10.00069808959961 18.5 180.00030517578125 163.00099182128906" height="80" width="86" xmlns="http://www.w3.org/2000/svg" data-type="color" role="img" preserveAspectRatio="none" style=""><g><path d="M118.476 18.5c-39.43 0-71.066 32.051-71.066 70.969 0 9.157 1.834 17.857 5.043 26.098-.917.458-1.834.916-2.292 1.374l-32.553 24.725-.458.458c-8.711 8.242-9.628 21.52-1.834 30.677l1.375 1.374c3.668 4.121 9.17 6.868 14.672 7.326h.917c5.043 0 10.545-1.831 14.213-5.494l32.553-24.725c.458-.458 1.375-.916 1.834-1.831 11.462 7.326 24.3 10.989 38.055 10.989 39.43 0 71.066-32.051 71.066-70.969S157.906 18.5 118.476 18.5zm-82.07 144.881l-.458.458c-.917.916-2.292 1.374-3.668 1.374-1.375 0-2.751-.458-3.668-1.831l-1.375-.916c-1.834-2.289-1.834-5.494 0-7.326l32.553-24.725c2.292 3.205 5.043 6.41 7.794 9.157l-31.178 23.809zm82.07-18.772c-30.26 0-55.019-24.725-55.019-54.944s24.758-54.944 55.019-54.944 55.019 24.725 55.019 54.944-24.759 54.944-55.019 54.944z" fill="#ffffff" data-color="1"></path><path d="M159.74 74.555a8.213 8.213 0 0 0-8.253 8.242c0 21.978-17.881 39.834-39.889 39.834a8.213 8.213 0 0 0-8.253 8.242 8.213 8.213 0 0 0 8.253 8.242c31.177 0 56.394-25.183 56.394-56.317a8.213 8.213 0 0 0-8.252-8.243z" fill="#ffffff" data-color="1"></path></g></svg>
+                </div>
+                <h3>6 DICAS PARA</h3>
+                <h4>Identificar os sintomas da</h4>
+                <h2>FERRUGEM</h2>
+            </div>
+        </div>
+        
+        <div class="container">
+            
+            <div class="row mt-5 mb-5">
+
+                <div class="col text-center">
+                    <h3>Abaixo listamos 6 dicas para te ajudar a identificar a doença e reconhecer quando este problema estiver rondando a sua lavoura:</h3>
+                </div>
+                
+            </div>
+            
+            <div class="row">
+                
+                <div class="col-12 col-sm-6 p-0">
+                    
+                    <div class="dica-structure">
+                        <div class="dica-content" style="background-image: url('https://www.tmg.agr.br/vendor/styles/inox/images/6_01.jpg');">
+                            <div class="dica-box">
+                                <h2>01</h2>
+                                <hr />
+                                <p>A folha apresenta formação de lesões verde-acinzentada, bronzeada a marrom-escuro ou marrom-avermelhada.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="col-12 col-sm-6 p-0">
+                    
+                    <div class="dica-structure">
+                        <div class="dica-content" style="background-image: url('https://www.tmg.agr.br/vendor/styles/inox/images/6_02.jpg');">
+                            <div class="dica-box">
+                                <h2>02</h2>
+                                <hr />
+                                <p>As lesões tendem a ser angulares e restringidas pelas nervuras foliares.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>     
+                <div class="col-12 col-sm-6 p-0">
+                    
+                    <div class="dica-structure">
+                        <div class="dica-content" style="background-image: url('https://www.tmg.agr.br/vendor/styles/inox/images/6_03.jpg');">
+                            <div class="dica-box">
+                                <h2>03</h2>
+                                <hr />
+                                <p>Uma lupa de mão com aumento de 20 vezes pode facilitar a visualização desses detalhes.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="col-12 col-sm-6 p-0">
+                    
+                    <div class="dica-structure">
+                        <div class="dica-content" style="background-image: url('https://www.tmg.agr.br/vendor/styles/inox/images/6_04.jpg');">
+                            <div class="dica-box">
+                                <h2>04</h2>
+                                <hr />
+                                <p>A doença ocorre em qualquer estádio da planta, mas são mais comuns após o florescimento (R2).</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>                      
+                <div class="col-12 col-sm-6 p-0">
+                    
+                    <div class="dica-structure">
+                        <div class="dica-content" style="background-image: url('https://www.tmg.agr.br/vendor/styles/inox/images/6_05.jpg');">
+                            <div class="dica-box">
+                                <h2>05</h2>
+                                <hr />
+                                <p>Causa amarelecimento foliar e devido à alta densidade de lesões resulta em desfolha prematura, que certamente causará redução do número de vagens por planta, de grãos por vagem e no peso do grão.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="col-12 col-sm-6 p-0">
+                    
+                    <div class="dica-structure">
+                        <div class="dica-content" style="background-image: url('https://www.tmg.agr.br/vendor/styles/inox/images/6_06.jpg');">
+                            <div class="dica-box">
+                                <h2>06</h2>
+                                <hr />
+                                <p>As maiores severidades são observadas durante longos períodos de molhamento foliar, associados à temperatura média diária abaixo de 28&ordm;C.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>                   
+            </div>
+        </div>
+        
+        <div class="text-2 container">
+            <div class="row">
+                <div class="col-12">
+                    <h2>&hellip; mas não se confunda</h2>
+                    <p>Fique atento! No estágio inicial a ferrugem pode ser confundida com a Septoriose ou o Crestamento Bacteriano. A diferença é que nestas duas, diferentemente da ferrugem, elas possuem um halo amarelado ao redor das pontuações. Veja a diferença:</p>
+                </div>
+                <div class="col-12 col-sm-4">
+                    <figure>
+                        <img src="https://www.tmg.agr.br/vendor/styles/inox/images/c_02.jpg" class="image-circle" />
+                        <figcaption>FERRUGEM ASIÁTICA</figcaption>
+                    </figure>
+                </div>
+                <div class="col-12 col-sm-4">
+                    <figure>
+                        <img src="https://www.tmg.agr.br/vendor/styles/inox/images/c_03.jpg" class="image-circle" />
+                        <figcaption>CRESTAMENTO BACTERIANO</figcaption>
+                    </figure>
+                </div>
+                <div class="col-12 col-sm-4">
+                    <figure>
+                        <img src="https://www.tmg.agr.br/vendor/styles/inox/images/c_01.jpg" class="image-circle" />
+                        <figcaption>SEPTORIOSE</figcaption>
+                    </figure>
+                </div>
+                <div class="col-12 col-sm-4">
+                    <p>Agora que você já sabe identificar a doença e viu o impacto que ela pode causar na produtividade, te apresentamos uma ferramenta que pode ser sua verdadeira aliada no combate a esse problema.</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="tecinox container-fluid">
+            
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h3 class="wow fadeInDown" data-wow-duration=".5s" data-wow-delay=".3s">TE APRESENTAMOS</h3>
+                        <h2 class="wow zoomIn" data-wow-duration=".5s" data-wow-delay=".3s">A Pioneira, a Tecnologia Inox<sup>&reg;</sup></h2>
+                        <hr />
+                        <figure class="logo-inox wow flip" data-wow-duration=".5s" data-wow-delay=".3s">
+                            <img src="https://www.tmg.agr.br/images/icons/inox2.png" />
+                        </figure>
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col d-none d-sm-block">&nbsp;</div>
+                    <div class="col-12 col-sm-10 back-text">
+                        <p>Se você ainda não conhece, você precisa dedicar um tempo e conhecer todos os benefícios que esta Tecnologia leva para o campo.</p>
+                        <p>A Tecnologia Inox® foi lançada em 2008 de forma pioneira, é única no mundo e desenvolvida aqui no Brasil por nós da TMG – Tropical Melhoramento & Genética.</p>
+                        <p>Vendo o grande gargalo e os impactos que a Ferrugem asiática causava nos campos do País, desenvolvemos essa Tecnologia, que hoje é uma grande aliada do produtor para enfrentar esse problema no campo e para melhorar sua produtividade em condições onde a doença está presente.</p>
+                        <p>É claro que para a Tecnologia expressar todo o seu potencial é imprescindível que as recomendações de manejo sejam seguidas corretamente. Mais abaixo, te explicamos detalhadamente como aproveitar ao máximo essa Tecnologia e ter resultados incríveis.</p>
+                        <p>O grande diferencial da Tecnologia está na presença do gene de resistência à ferrugem nas cultivares, isso faz com que a planta tenha maiores condições de conviver com a doença no campo. Caso o controle cultural e o químico “escapem das mãos”, a planta com Tecnologia Inox® pode contar com uma proteção extra, essa proteção significa mais tranquilidade e segurança.</p>
+                        <h4>APERTE O <i class="fas fa-play" style="font-size: .8em;"></i> PLAY E CONFIRA A DIFERENÇA QUE A TECNOLOGIA INOX<sup>&reg;</sup> FAZ NO CAMPO</h4>
+                        <iframe width="100%" height="450" src="https://www.youtube.com/embed/Qn01Pr77eIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <div class="row gallery">
+                            <div class="col-6 col-sm-2"><a href="https://www.tmg.agr.br/vendor/styles/inox/images/i_01.webp" data-fancybox="images"><img src="https://www.tmg.agr.br/vendor/styles/inox/images/i_01.webp" alt="Image"></a></div>
+                            <div class="col-6 col-sm-2"><a href="https://www.tmg.agr.br/vendor/styles/inox/images/i_02.jpg" data-fancybox="images"><img src="https://www.tmg.agr.br/vendor/styles/inox/images/i_02.jpg" alt="Image"></a></div>
+                            <div class="col-6 col-sm-2"><a href="https://www.tmg.agr.br/vendor/styles/inox/images/i_03.jpg" data-fancybox="images"><img src="https://www.tmg.agr.br/vendor/styles/inox/images/i_03.jpg" alt="Image"></a></div>
+                            <div class="col-6 col-sm-2"><a href="https://www.tmg.agr.br/vendor/styles/inox/images/i_04.jpg" data-fancybox="images"><img src="https://www.tmg.agr.br/vendor/styles/inox/images/i_04.jpg" alt="Image"></a></div>
+                            <div class="col-6 col-sm-2"><a href="https://www.tmg.agr.br/vendor/styles/inox/images/i_05.webp" data-fancybox="images"><img src="https://www.tmg.agr.br/vendor/styles/inox/images/i_05.webp" alt="Image"></a></div>
+                            <div class="col-6 col-sm-2"><a href="https://www.tmg.agr.br/vendor/styles/inox/images/i_06.webp" data-fancybox="images"><img src="https://www.tmg.agr.br/vendor/styles/inox/images/i_06.webp" alt="Image"></a></div>
+                        </div>
+                    </div>
+                    <div class="col d-none d-sm-block">&nbsp;</div>
+                </div>
+            </div>
+            
+        </div>
+        
+        <div class="text-3 container">
+            <div class="row">
+                <div class="col-12">
+                    <h2>Mas você deve estar se perguntando:</h2>
+                    <h2 class="mb-5">E na prática, como isso funciona?</h2>
+                </div>
+                <div class="col-12">
+                    <figure style="text-align: center; margin: 10px 0 40px; ">
+                        <img src="https://www.tmg.agr.br/vendor/styles/inox/images/11.webp" style="width: 100%;" />
+                        <figcaption style="font-style: italic;">A esquerda lavoura suscetível e a direta com Tecnologia Inox<sup>&reg;</sup> - A diferença visual entre uma lavoura com e outra sem a Tecnologia Inox<sup>&reg;</sup> comprova toda a sua eficiência no campo.</figcaption>
+                    </figure>
+                </div>
+                <div class="col-12 text-center">
+                    <p>Bem, funciona da seguinte maneira, as cultivares com Tecnologia Inox®, quando atacadas pelo fungo da Ferrugem, têm uma reação de hipersensibilidade (criando uma lesão escura) que necrosa o tecido foliar ao redor do ponto de infecção, eliminando a fonte de alimento do fungo e evitando a sua multiplicação e esporulação. Esta lesão é chamada de RB (Redish Brown).</p>
+                    <p>Veja abaixo como identificá-la.</p>
+                </div>
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col d-none d-sm-block"></div>
+                        <div class="col-12 col-sm-4">
+                            <figure style="text-align: center; margin: 10px 0 40px; ">
+                                <img src="https://www.tmg.agr.br/vendor/styles/inox/images/tan.webp" style="width: 100%;" />
+                                <figcaption>TAN (suscetível)</figcaption>
+                            </figure>                            
+                        </div>
+                        <div class="col-12 col-sm-4">
+                            <figure style="text-align: center; margin: 10px 0 40px; ">
+                                <img src="https://www.tmg.agr.br/vendor/styles/inox/images/rb.webp" style="width: 100%;" />
+                                <figcaption>RB (resistente)</figcaption>
+                            </figure>                            
+                        </div>
+                        <div class="col d-none d-sm-block"></div>
+                    </div>
+                </div>
+                <div class="col-12 text-center">
+                    <p>Sendo assim, cultivares com Tecnologia Inox® significa mais produtividade e mais segurança para você, produtor.</p>
+                    <p>Mas até mesmo uma Tecnologia tão inovadora quanto essa precisa de cuidados, veja abaixo algumas informações muito importantes para o manejo correto.</p>
+                </div>
+            </div>
+        </div>        
+        
+        <div class="text-4 container">
+            <div class="row mb-5">
+                <div class="col-12">
+                    <h3>MANEJO CORRETO,</h3>
+                    <h2 class="mb-5">RESULTADOS<br />INCRÍVEIS:</h2>
+                </div>
+                <div class="col-12 text-center">
+                    <p>A Genética é, sem dúvida alguma, uma excelente ferramenta para atingir bons resultados de produtividade, porém, fatores como manejo de químicos e solos, doenças e pragas são determinantes para o sucesso de sua lavoura.</p>
+                    <p>Ao optar por uma cultivar com a Tecnologia Inox® você deve saber que</p>
+                    <p><strong>É IMPRESCINDÍVEL FAZER AS APLICAÇÕES DE FUNGICIDAS NORMALMENTE E SEGUIR AS RECOMENDAÇÕES DE MANEJO COMO EM QUALQUER OUTRO MATERIAL SUSCETÍVEL À FERRUGEM.</strong></p>
+                    <p>No entanto, a combinação destes dois fatores (Tecnologia Inox® + aplicação de fungicidas) aumentam significativamente suas chances de atingir resultados melhores, quando comparados com outras cultivares que não possuem a Tecnologia.</p>
+                    <p>​Os fungicidas nem sempre garantem efetividade e essa é uma das principais vantagens de se ter uma cultivar com Tecnologia Inox® na sua lavoura.</p>
+                    <!-- <iframe width="100%" height="600" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                </div>
+            </div>
+        </div>             
+        
+        <div class="text-5 container-fluid pb-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <img src="https://www.tmg.agr.br/vendor/styles/inox/images/sc.webp" />
+                        <h3><span style="color: #6077ef">FAÇA CHUVA</span> <span style="color: #ffd04e">OU FAÇA SOL,</span></h3>
+                        <h2 class="mb-5"><span style="color: #ffd04e">IMPREVISTOS</span> <span style="color: #6077ef">ACONTECEM:</span></h2>
+                    </div>
+                    <div class="col-12 text-center">
+                        <p>Nesta safra, em vários locais do País, o clima foi de muita chuva e este cenário acaba se tornando perfeito para o aumento dos focos de Ferrugem asiática.</p>
+                        <p>O produtor Nivaldo plantou a cultivar TMG 7062IPRO que possui Tecnologia Inox® e devido à grande quantidade de chuvas em sua região não conseguiu entrar para fazer as aplicações de fungicida no melhor momento. Mas ele pôde contar com a Tecnologia Inox®, que proporciona maior segurança quando imprevistos como estes acontecem, e como o próprio Sr. Nivaldo diz: “não é tão necessário esquentar a cabeça como se fosse uma cultivar comum.”</p>
+                        <p>Veja o vídeo com o depoimento do Sr. Nivaldo.</p>
+                        <iframe width="100%" height="600" src="https://www.youtube.com/embed/L-pJIdz3z5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>  
+        </div>
+
+        <div class="text-5 container-fluid pb-5">
+            <div class="container">
+                <div class="row cultivar-info">
+                    <div class="col-12 col-md p-4">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivares/soja"><img src="https://www.tmg.agr.br/images/banner/b-portfolio.png" /></a>
+                    </div>
+                    <div class="col-12 col-md p-4">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivares/soja"><img src="https://www.tmg.agr.br/images/banner/b-inox.png" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+<footer id="footer" class="d-print-none">
+    <div class="widget-area gradient-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="tm-widget wow fadeIn" data-wow-duration=".5s" data-wow-delay=".3s">
+                        <div class="tm-widget-text">
+                            <h2 class="text-center" style="font-size: 3em">#tmgenetica</h2>
+                            <h2 class="text-center">Além da Produtividade</h2>
+                            <div class="pb-3"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <p class="copyright-text">&copy; 2022 TMG Tropical Melhoramento &amp; Genética S.A.</p>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <div class="copyright-nav">
+                        <ul>
+<!--                            <li><a href="#" target="_blank">Instagram</a></li>
+                            <li><a href="#" target="_blank">Facebook</a></li>
+                            <li><a href="#" target="_blank">LinkedIn</a></li>
+                            <li><a href="#" target="_blank">Youtube</a></li>
+                            <li><a href="#" target="_blank">Flickr</a></li>-->
+                            <li><a href="https://www.tmg.agr.br/ptbr/privacidade">Política de Privacidade</a></li>
+                            <li><a href="javascript:window.Confirmic('ConsentManager:show')">Cookies</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Integrate</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Portais</a></li>
+                            <!-- <li><a href="https://novostalentos.tmg.agr.br" target="_blank">Programa Novos Talentos</a></li> -->
+                            <li><a href="http://www.tmg.agr.br/trabalheconosco" target="_blank">Trabalhe Conosco</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-2.2.0.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.easing.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.mobile.custom.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/vide/jquery.vide.min.js"></script>
+
+        <script src="https://www.tmg.agr.br/vendor/lity/lity.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/parallax/parallax.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/isotope/isotope.pkgd.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/isotope/portfolio.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/tether/tether.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/popper/popper.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/wow/wow.min.js"></script>
+<script>new WOW().init();</script>
+<script src="https://www.tmg.agr.br/vendor/styles/scripts.js?7570527107"></script>
+
+        <script>
+            $(document).ready(function () {
+                $('.inox-background-video').bgVideo({fadeIn: 500});
+            });
+        </script>
+        
+    </body>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-12814928-1', 'auto');
+        ga('send', 'pageview');
+    </script>    
+</html>

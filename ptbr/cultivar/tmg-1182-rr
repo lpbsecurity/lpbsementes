@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="application-name" content="">
+    <meta name="description" content="Tolerância aos nematoides de Galha (<em>M. Incognita</em> e <em>M. Javanica</em>)">
+    <meta name="apple-mobile-web-app-title" content="TMG">
+    <meta name="application-name" content="TMG">
+    <meta name="msapplication-TileColor" content="#246886">
+    <meta name="theme-color" content="#246886"> 
+    
+    <meta property="og:title" content="TMG 1182 RR - Cultivar de Soja - TMG" />
+    <meta property="og:url" content="https://www.tmg.agr.br/ptbr/cultivar/tmg-1182-rr" />    
+    <meta property="og:description" content="Tolerância aos nematoides de Galha (<em>M. Incognita</em> e <em>M. Javanica</em>)" />  
+    <meta property="og:type" content="article" />
+    <meta property="og:locale" content="pt-br" /> 
+    <meta property="og:image" content="https://www.tmg.agr.br/images/cultivars/1551220388185654.png" />
+    <meta property="article:author" content="https://www.facebook.com/tmgenetica" />
+    <meta property="article:publisher" content="https://www.facebook.com/tmgenetica" /> 
+    <meta property="fb:app_id" content="383319985016928" />
+    <meta name="facebook-domain-verification" content="3vlls5csfxgmbragzj42oz5boumbfa" />
+    
+    <title>TMG 1182 RR - Cultivar de Soja - TMG</title>
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.tmg.agr.br/images/icons/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.tmg.agr.br/images/icons/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.tmg.agr.br/images/icons/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://www.tmg.agr.br/images/icons/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://www.tmg.agr.br/images/icons/favicon/safari-pinned-tab.svg" color="#246886">
+
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.css">
+            
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/normalize.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/animate/animate.css">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,800">
+    <link rel="stylesheet" href="https://use.typekit.net/mjw2ffj.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.css" />
+
+            <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/fancybox/dist/jquery.fancybox.min.css">
+        <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/lity/lity.css">
+                <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/owl/assets/owl.carousel.min.css">
+        <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/owl/assets/owl.theme.default.min.css">
+        
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style.css?613147539">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style2.css?935766911">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/responsive.css?420206825">
+    
+            
+    <script src="https://www.tmg.agr.br/vendor/modernizr/modernizr.js"></script>
+    
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '681180552296000'); 
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=681180552296000&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->    
+    
+    <!-- Google ADS -->    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-580154035"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-580154035');
+    </script>
+    <!-- Google ADS -->    
+    
+    <!-- Cookie-Script -->
+    <script src="https://config.confirmic.com/config.js?id=prj:2884a71c-0a76-4f48-ac59-a6f0fe60822d" crossorigin charset="utf-8"></script>
+    <script src="https://consent-manager.confirmic.com/embed.js" crossorigin charset="utf-8"></script>
+
+</head>    <body>
+        <header class="black">
+    <div class="container">
+        <nav id="mainNav" class="navbar navbar-expand-lg navbar-light bg-light">
+            <h1 class="navbar-brand m-0">
+                <a class="logo js-scroll-trigger" href="https://www.tmg.agr.br/" title="TMG"><img src="https://www.tmg.agr.br/images/tmgw.svg" style="width: 100px" alt="TMG"></a>
+            </h1>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" 
+                    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Navegação">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav right-menu light-bg">
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/institucional">Institucional</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuCtv" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Cultivares                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuCtv">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/soja">Soja</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/algodao">Algodão</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuTec" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Tecnologias                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuTec">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/inox">Inox<sup>&reg;</sup></a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/rx">Rx</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/ampla-resistencia-cisto">Ampla Resistência à Cisto</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/produtividade">Produtividade</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/licenciados">Licenciados</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/noticias">Notícias</a>
+                    </li>
+                    <li class="nav-item dropdown m-contato">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuContato" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Contato                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuContato">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/fale-conosco">Fale Conosco</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/equipe">Equipe Comercial</a>
+<!--                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/trabalheconosco">Trabalhe com a gente</a>-->
+                        </div>
+                    </li>
+                    
+                    
+                </ul>
+                <!-- <ul class="right-menu light-bg">
+                    <li class="nav-item">
+                        <select class="language">
+                            <option value="">PT</option>
+                            <option value="">EN</option>
+                            <option value="">ES</option>
+                        </select>
+                    </li>
+                </ul> -->
+            </div>
+        </nav>
+    </div>
+</header>
+<div class="d-none d-print-block mb-5 text-center">
+    <img src="https://www.tmg.agr.br/images/tmgb.png" alt="TMG">
+</div>
+<section class="mt-5">
+    
+        
+        <div class="cultivar-data continer-fluid">
+            <div class="cultivar-header" style="background-image: url('https://www.tmg.agr.br/images/crops/soy/large/3.jpg');">
+                <h1>TMG 1182 RR</h1>
+                <figure class="cultivar-brand gradient-purple">
+                    <img src="https://www.tmg.agr.br//images/cultivars/1552068392175238.png" />
+                </figure>
+            </div>
+        </div>
+
+        <div class="cultivar-data container">
+
+            <div class="row cultivar-body">
+
+                <div class="col-md-4 first">
+
+                    <aside class="mb-5">
+
+                        <div class="cultivar-itens">
+                            <h2>Pontos Fortes:</h2>
+                            <p>Tolerância aos nematoides de Galha (<em>M. Incognita</em> e <em>M. Javanica</em>)</p>
+                            <!--<dl>
+                                <dd></dd>
+                            </dl>-->
+                        </div>
+                                                <hr class="gradient-purple">
+                                                
+                    </aside>
+
+                </div>
+
+                <div class="col-md-8 second">
+
+                    <div class="cultivar-stamps-container">
+
+                        <div class="row cultivar-stamps">
+                                                            <div class="col-6 col-md-4 col-lg-3 p-3">
+                                                                        <img src="https://www.tmg.agr.br/images/stamps/1551130285578299.png" alt="Resistência moderada à Galha <i>(M. javanica)</i>" />
+                                                                    </div>
+                                                                <div class="col-6 col-md-4 col-lg-3 p-3">
+                                                                        <img src="https://www.tmg.agr.br/images/stamps/1551130391405026.png" alt="Resistência moderada à Galha <i>(M. incognita)</i>" />
+                                                                    </div>
+                                                                
+                        </div>                            
+
+                    </div>
+
+                                                <div class="cultivar-info">
+                                <figure class="cultivar-stick gradient-purple">
+                                    <img src="https://www.tmg.agr.br/images/icons/caracteristicas.svg" />
+                                </figure>
+                                <h2>Características:</h2>
+                                <p>
+                                Maturação relativa: <strong class="fts-value">8.2</strong><br />Tipo de crescimento: <strong class="fts-value">Determinado</strong><br />Cor da flor: <strong class="fts-value">Roxa</strong><br />Cor da Pubescência: <strong class="fts-value">Cinza</strong><br />Cor do hilo: <strong class="fts-value">Preta imperfeita</strong><br />Exigência em fertilidade: <strong class="fts-value">Média/Alta</strong><br />Acamamento: <strong class="fts-value">Mod. resistente</strong><br />PMG*: <strong class="fts-value">158g</strong><br />                                </p>
+                                                            </div>
+
+                            <div class="cultivar-info">
+                                <figure class="cultivar-stick gradient-purple">
+                                    <img src="https://www.tmg.agr.br/images/icons/reacoesdoencas.svg" />
+                                </figure>
+                                <h2>Reação a nematoides e doenças:</h2>
+                                <p>
+                                Cancro da haste <small><em>(Diaporthe aspalathi)</em></small>: <strong class="fts-value">Resistente</strong><br />Ferrugem asiática <small><em>(P. pachyrhizi)</em></small>: <strong class="fts-value">Suscetível</strong><br />Mancha &quot;Olho-de-rã&quot; <small><em>(C. sojina)</em></small>: <strong class="fts-value">Resistente</strong><br />Mancha alvo <small><em>(C. cassiicola)</em></small>: <strong class="fts-value">Suscetível</strong><br />Nematoide das galhas <small><em>(M. javanica)</em></small>: <strong class="fts-value">Mod. Resistente</strong><br />Nematoide das galhas <small><em>(M. incognita)</em></small>: <strong class="fts-value">Mod. Resistente</strong><br />Nematoide das lesões radiculares <small><em>(P. brachyurus)</em></small>: <strong class="fts-value">Suscetível</strong><br />Nematoide de cisto** <small><em>(H. glycines)</em></small>: <strong class="fts-value">Suscetível</strong><br />Oídio <small><em>(M. diffusa)</em></small>: <strong class="fts-value">Suscetível</strong><br />Pústula bacteriana <small><em>(X. axonopodis)</em></small>: <strong class="fts-value">Resistente</strong><br />                                </p>
+                                                            </div>
+
+                            <div class="cultivar-info">
+                                <figure class="cultivar-stick gradient-purple">
+                                    <img src="https://www.tmg.agr.br/images/icons/indicacaoplantio.svg" />
+                                </figure>
+                                <h2>Região de Adaptação, Ciclo, Fertilidade, Época de Semeadura e População de Plantas (pl/m/linear):</h2>
+                                                                <div class="table-responsive">
+                                    <table class="table table-bordered table-semeadura">
+
+                                    <thead>
+                                        <tr>
+                                            <th rowspan="3">Região</th>
+                                            <th rowspan="3">Ciclo Médio (Dias)<sup>1</sup></th>
+                                            <th rowspan="3">Fertilidade<sup>2</sup></th>
+                                            <th rowspan="3" style="display: none">População (mil/pl/ha)</th>
+                                            <th colspan="20">Plantas finais por metro linear<sup>3</sup></th>
+                                        </tr>
+                                        <tr>
+                                            <th colspan="2" class="border-row-right">Set</th><th colspan="4" class="border-row-right">Out</th><th colspan="4" class="border-row-right">Nov</th><th colspan="2" class="border-row-right">Dez</th>                                        </tr>
+                                        <tr>
+                                            <th>21</th><th class="border-row-right">30</th><th>07</th><th>14</th><th>21</th><th class="border-row-right">31</th><th>07</th><th>14</th><th>21</th><th class="border-row-right">30</th><th>07</th><th class="border-row-right">14</th>                                        </tr>
+                                    </thead>
+
+                                    <tbody>
+                                                                                    <tr>
+                                                <td rowspan="2" class="border-row-bottom">BA - Oeste</td>
+                                                <td rowspan="2" class="border-row-bottom text-center">120 A 125</td>
+                                                <td class="text-center">Alta</td>
+                                                                                                    <td rowspan="2" style="display: none" class="border-row-bottom text-center">180 a 200</td>
+                                                    <td class="text-center gray"></td><td class="text-center border-row-right gray"></td><td class="text-center gray"></td><td class="text-center gray"></td><td class="text-center yellow">9</td><td class="text-center border-row-right green">9</td><td class="text-center green">9</td><td class="text-center green">9</td><td class="text-center green">9</td><td class="text-center border-row-right green">9</td><td class="text-center yellow">8</td><td class="text-center border-row-right yellow">8</td>                                            </tr>
+                                            <tr>
+                                                <td class="border-row-bottom text-center">Média</td>
+                                                <td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td>                                            </tr> 
+                                                                                        <tr>
+                                                <td rowspan="2" class="border-row-bottom">MA</td>
+                                                <td rowspan="2" class="border-row-bottom text-center">105 A 110</td>
+                                                <td class="text-center">Alta</td>
+                                                                                                    <td rowspan="2" style="display: none" class="border-row-bottom text-center">265 a 310</td>
+                                                    <td class="text-center gray"></td><td class="text-center border-row-right gray"></td><td class="text-center gray"></td><td class="text-center gray"></td><td class="text-center yellow">14</td><td class="text-center border-row-right green">14</td><td class="text-center green">14</td><td class="text-center green">14</td><td class="text-center green">13</td><td class="text-center border-row-right green">13</td><td class="text-center yellow">12</td><td class="text-center border-row-right gray"></td>                                            </tr>
+                                            <tr>
+                                                <td class="border-row-bottom text-center">Média</td>
+                                                <td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td>                                            </tr> 
+                                                                                        <tr>
+                                                <td rowspan="2" class="border-row-bottom">MS - Norte</td>
+                                                <td rowspan="2" class="border-row-bottom text-center">125 A 135</td>
+                                                <td class="text-center">Alta</td>
+                                                                                                    <td class="text-center" style="display: none">220 a 245</td>
+                                                    <td class="text-center gray"></td><td class="text-center border-row-right gray"></td><td class="text-center yellow">11</td><td class="text-center green">10</td><td class="text-center green">10</td><td class="text-center border-row-right green">10</td><td class="text-center green">10</td><td class="text-center green">10</td><td class="text-center yellow">10</td><td class="text-center border-row-right gray"></td><td class="text-center gray"></td><td class="text-center border-row-right gray"></td>                                            </tr>
+                                            <tr>
+                                                <td class="border-row-bottom text-center">Média</td>
+                                                                                                    <td style="display: none" class="border-row-bottom text-center">245</td>
+                                                    <td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  yellow">11</td><td class="border-row-bottom text-center  green">11</td><td class="border-row-bottom text-center  green">11</td><td class="border-row-bottom text-center  border-row-right green">11</td><td class="border-row-bottom text-center  green">11</td><td class="border-row-bottom text-center  green">11</td><td class="border-row-bottom text-center  yellow">11</td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td>                                            </tr> 
+                                                                                        <tr>
+                                                <td rowspan="2" class="border-row-bottom">MT - Médio Norte</td>
+                                                <td rowspan="2" class="border-row-bottom text-center">110 A 114</td>
+                                                <td class="text-center">Alta</td>
+                                                                                                    <td class="text-center" style="display: none">265 a 310</td>
+                                                    <td class="text-center gray"></td><td class="text-center border-row-right gray"></td><td class="text-center yellow">14</td><td class="text-center green">12</td><td class="text-center green">12</td><td class="text-center border-row-right green">12</td><td class="text-center green">12</td><td class="text-center green">12</td><td class="text-center yellow">12</td><td class="text-center border-row-right gray"></td><td class="text-center gray"></td><td class="text-center border-row-right gray"></td>                                            </tr>
+                                            <tr>
+                                                <td class="border-row-bottom text-center">Média</td>
+                                                                                                    <td style="display: none" class="border-row-bottom text-center">310 a 355</td>
+                                                    <td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  yellow">16</td><td class="border-row-bottom text-center  green">14</td><td class="border-row-bottom text-center  border-row-right green">14</td><td class="border-row-bottom text-center  green">14</td><td class="border-row-bottom text-center  green">14</td><td class="border-row-bottom text-center  yellow">14</td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td>                                            </tr> 
+                                                                                        <tr>
+                                                <td rowspan="2" class="border-row-bottom">MT - Parecis</td>
+                                                <td rowspan="2" class="border-row-bottom text-center">113 A 120</td>
+                                                <td class="text-center">Alta</td>
+                                                                                                    <td class="text-center" style="display: none">265 a 310</td>
+                                                    <td class="text-center gray"></td><td class="text-center border-row-right gray"></td><td class="text-center yellow">14</td><td class="text-center green">12</td><td class="text-center green">12</td><td class="text-center border-row-right green">12</td><td class="text-center green">12</td><td class="text-center green">12</td><td class="text-center yellow">12</td><td class="text-center border-row-right gray"></td><td class="text-center gray"></td><td class="text-center border-row-right gray"></td>                                            </tr>
+                                            <tr>
+                                                <td class="border-row-bottom text-center">Média</td>
+                                                                                                    <td style="display: none" class="border-row-bottom text-center">310 a 355</td>
+                                                    <td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  yellow">16</td><td class="border-row-bottom text-center  green">14</td><td class="border-row-bottom text-center  border-row-right green">14</td><td class="border-row-bottom text-center  green">14</td><td class="border-row-bottom text-center  green">14</td><td class="border-row-bottom text-center  yellow">14</td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td>                                            </tr> 
+                                                                                        <tr>
+                                                <td rowspan="2" class="border-row-bottom">MT - Sul de Alta Altitude</td>
+                                                <td rowspan="2" class="border-row-bottom text-center">123 A 133</td>
+                                                <td class="text-center">Alta</td>
+                                                                                                    <td class="text-center" style="display: none">220 a 265</td>
+                                                    <td class="text-center gray"></td><td class="text-center border-row-right yellow">12</td><td class="text-center yellow">12</td><td class="text-center green">12</td><td class="text-center green">10</td><td class="text-center border-row-right green">10</td><td class="text-center green">10</td><td class="text-center green">10</td><td class="text-center yellow">10</td><td class="text-center border-row-right yellow">10</td><td class="text-center gray"></td><td class="text-center border-row-right gray"></td>                                            </tr>
+                                            <tr>
+                                                <td class="border-row-bottom text-center">Média</td>
+                                                                                                    <td style="display: none" class="border-row-bottom text-center">245 a 290</td>
+                                                    <td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right yellow">13</td><td class="border-row-bottom text-center  yellow">13</td><td class="border-row-bottom text-center  green">11</td><td class="border-row-bottom text-center  green">11</td><td class="border-row-bottom text-center  border-row-right green">11</td><td class="border-row-bottom text-center  green">11</td><td class="border-row-bottom text-center  green">11</td><td class="border-row-bottom text-center  yellow">11</td><td class="border-row-bottom text-center  border-row-right yellow">11</td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td>                                            </tr> 
+                                                                                        <tr>
+                                                <td rowspan="2" class="border-row-bottom">MT - Sul de Baixa Altitude</td>
+                                                <td rowspan="2" class="border-row-bottom text-center">117 A 122</td>
+                                                <td class="text-center">Alta</td>
+                                                                                                    <td class="text-center" style="display: none">220 a 265</td>
+                                                    <td class="text-center gray"></td><td class="text-center border-row-right gray"></td><td class="text-center yellow">12</td><td class="text-center green">12</td><td class="text-center green">10</td><td class="text-center border-row-right green">10</td><td class="text-center green">10</td><td class="text-center green">10</td><td class="text-center yellow">10</td><td class="text-center border-row-right yellow">10</td><td class="text-center gray"></td><td class="text-center border-row-right gray"></td>                                            </tr>
+                                            <tr>
+                                                <td class="border-row-bottom text-center">Média</td>
+                                                                                                    <td style="display: none" class="border-row-bottom text-center">265 a 290</td>
+                                                    <td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  yellow">13</td><td class="border-row-bottom text-center  green">12</td><td class="border-row-bottom text-center  green">12</td><td class="border-row-bottom text-center  border-row-right green">12</td><td class="border-row-bottom text-center  green">12</td><td class="border-row-bottom text-center  green">12</td><td class="border-row-bottom text-center  yellow">12</td><td class="border-row-bottom text-center  border-row-right yellow">12</td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td>                                            </tr> 
+                                                                                        <tr>
+                                                <td rowspan="2" class="border-row-bottom">MT - Vale do Araguaia</td>
+                                                <td rowspan="2" class="border-row-bottom text-center">115 A 117</td>
+                                                <td class="text-center">Alta</td>
+                                                                                                    <td class="text-center" style="display: none">265 a 310</td>
+                                                    <td class="text-center gray"></td><td class="text-center border-row-right gray"></td><td class="text-center gray"></td><td class="text-center yellow">14</td><td class="text-center green">14</td><td class="text-center border-row-right green">12</td><td class="text-center green">12</td><td class="text-center green">12</td><td class="text-center green">12</td><td class="text-center border-row-right yellow">12</td><td class="text-center gray"></td><td class="text-center border-row-right gray"></td>                                            </tr>
+                                            <tr>
+                                                <td class="border-row-bottom text-center">Média</td>
+                                                                                                    <td style="display: none" class="border-row-bottom text-center">310</td>
+                                                    <td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  yellow">14</td><td class="border-row-bottom text-center  border-row-right green">14</td><td class="border-row-bottom text-center  green">14</td><td class="border-row-bottom text-center  green">14</td><td class="border-row-bottom text-center  green">14</td><td class="border-row-bottom text-center  border-row-right green">14</td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td>                                            </tr> 
+                                                                                        <tr>
+                                                <td rowspan="2" class="border-row-bottom">MT/RO - Vale do Guaporé</td>
+                                                <td rowspan="2" class="border-row-bottom text-center">105 A 112</td>
+                                                <td class="text-center">Alta</td>
+                                                                                                    <td class="text-center" style="display: none">220 a 265</td>
+                                                    <td class="text-center gray"></td><td class="text-center border-row-right gray"></td><td class="text-center gray"></td><td class="text-center yellow">12</td><td class="text-center green">12</td><td class="text-center border-row-right green">12</td><td class="text-center green">10</td><td class="text-center green">10</td><td class="text-center green">10</td><td class="text-center border-row-right yellow">10</td><td class="text-center gray"></td><td class="text-center border-row-right gray"></td>                                            </tr>
+                                            <tr>
+                                                <td class="border-row-bottom text-center">Média</td>
+                                                                                                    <td style="display: none" class="border-row-bottom text-center">265 a 310</td>
+                                                    <td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  yellow">14</td><td class="border-row-bottom text-center  green">14</td><td class="border-row-bottom text-center  border-row-right green">14</td><td class="border-row-bottom text-center  green">12</td><td class="border-row-bottom text-center  green">12</td><td class="border-row-bottom text-center  green">12</td><td class="border-row-bottom text-center  border-row-right yellow">12</td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td>                                            </tr> 
+                                                                                        <tr>
+                                                <td rowspan="2" class="border-row-bottom">PI</td>
+                                                <td rowspan="2" class="border-row-bottom text-center">100 A 105</td>
+                                                <td class="text-center">Alta</td>
+                                                                                                    <td rowspan="2" style="display: none" class="border-row-bottom text-center">290 a 335</td>
+                                                    <td class="text-center gray"></td><td class="text-center border-row-right gray"></td><td class="text-center gray"></td><td class="text-center gray"></td><td class="text-center gray"></td><td class="text-center border-row-right yellow">15</td><td class="text-center green">14</td><td class="text-center green">14</td><td class="text-center green">14</td><td class="text-center border-row-right green">14</td><td class="text-center yellow">13</td><td class="text-center border-row-right yellow">13</td>                                            </tr>
+                                            <tr>
+                                                <td class="border-row-bottom text-center">Média</td>
+                                                <td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td>                                            </tr> 
+                                                                                        <tr>
+                                                <td rowspan="2" class="border-row-bottom">TO - Norte</td>
+                                                <td rowspan="2" class="border-row-bottom text-center">105 A 110</td>
+                                                <td class="text-center">Alta</td>
+                                                                                                    <td rowspan="2" style="display: none" class="border-row-bottom text-center">265 a 310</td>
+                                                    <td class="text-center gray"></td><td class="text-center border-row-right gray"></td><td class="text-center gray"></td><td class="text-center gray"></td><td class="text-center yellow">14</td><td class="text-center border-row-right green">14</td><td class="text-center green">14</td><td class="text-center green">14</td><td class="text-center green">13</td><td class="text-center border-row-right green">13</td><td class="text-center yellow">12</td><td class="text-center border-row-right gray"></td>                                            </tr>
+                                            <tr>
+                                                <td class="border-row-bottom text-center">Média</td>
+                                                <td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td>                                            </tr> 
+                                                                                        <tr>
+                                                <td rowspan="2" class="border-row-bottom">TO - Sul</td>
+                                                <td rowspan="2" class="border-row-bottom text-center">110 A 115</td>
+                                                <td class="text-center">Alta</td>
+                                                                                                    <td rowspan="2" style="display: none" class="border-row-bottom text-center">245 a 265</td>
+                                                    <td class="text-center gray"></td><td class="text-center border-row-right gray"></td><td class="text-center gray"></td><td class="text-center gray"></td><td class="text-center yellow">12</td><td class="text-center border-row-right green">12</td><td class="text-center green">12</td><td class="text-center green">12</td><td class="text-center green">12</td><td class="text-center border-row-right green">12</td><td class="text-center yellow">11</td><td class="text-center border-row-right yellow">11</td>                                            </tr>
+                                            <tr>
+                                                <td class="border-row-bottom text-center">Média</td>
+                                                <td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td><td class="border-row-bottom text-center  gray"></td><td class="border-row-bottom text-center  border-row-right gray"></td>                                            </tr> 
+                                                            
+
+                                    </tbody>
+
+                                </table>                                           
+                                </div>
+
+                                <div class="mt-4 row table-semeadura-legenda">
+                                    <div class="col legenda"><i class="green"></i><span>Época de plantio preferencial</span></div>
+                                    <div class="col legenda"><i class="yellow"></i><span>Época de plantio tolerada</span></div>
+                                    <!--<div class="col legenda"><i class="red"></i><span>Não Indicado</span></div>-->
+                                </div>
+                                <div class="mt-4 row legenda">
+                                    <div class="col-12"><sup>1</sup>Ciclo médio em dias da emergência ao ponto de colheita; <br /><sup>2</sup>Nível de fertilidade de solo, usando teor de fósforo como parâmetro; <br /><sup>3</sup>Espaçamento entre linhas considerando 45cm;</div>
+                                    <div class="col-12"><strong>IMPORTANTE</strong>: atentar-se às normas de Vazio Sanitário.</div>
+                                </div>                               
+
+                            </div>
+                                                <div class="row cultivar-info">
+                        <div class="col-12 col-md p-4">
+                            <a href="https://www.tmg.agr.br/ptbr/licenciados"><img src="https://www.tmg.agr.br/images/banner/b-licen.png" /></a>
+                        </div>
+                        <div class="col-12 col-md p-4">
+                            <a href="#faleconsultoria" id="consultoria" style="cursor:pointer" d_href="https://www.tmg.agr.br/ptbr/equipe"><img src="https://www.tmg.agr.br/images/banner/b-rep.png" /></a>
+                        </div>
+                        <div class="col-12 col-md p-4">
+                            <a href="https://www.tmg.agr.br/#tecnologias"><img src="https://www.tmg.agr.br/images/banner/b-tecn.png" /></a>
+                        </div>
+                    </div> 
+                    
+                    <a name="faleconsultoria"></a>
+
+                    <div id="form-consultoria" class="row cultivar-info" style="display: none">
+
+                            <h3 class="mb-4">Fale com um Representante Técnico Comercial da TMG</h3>
+
+                            <form id="form-request" class="mb-5 w-100">
+                                <input type="hidden" name="para" value="99">
+                                <input type="hidden" name="cultivar" value="TMG 1182 RR">
+
+                                <div class="form-row">
+                                    <div class="form-group col">
+                                        <input type="text" name="nome" class="form-control" id="inputEmail4" placeholder="Nome" required="required">
+                                    </div>
+                                </div>
+                                <div class="form-row">
+                                    <div class="form-group col">
+                                        <input type="email" name="email" class="form-control" id="inputEmail4" placeholder="Email" required="required">
+                                    </div>
+                                </div>
+                                <div class="form-row">
+                                    <div class="form-group col">
+                                        <input type="text" name="telefone" class="form-control" id="inputEmail4" placeholder="Telefone" required="required">
+                                    </div>
+                                </div>
+                                <div class="form-row">
+                                    <div class="form-group col">
+                                        <input type="text" name="cidade" class="form-control" id="inputCity" placeholder="Cidade" required="required">
+                                    </div>
+                                </div>
+                                <div class="form-row">
+                                    <div class="form-group col">
+                                        <select name="subregiao" class="form-control" id="inputRegion" required="required">
+                                            <option value="">Selecione uma Sub-região</option>
+                                            <option>BA - Oeste</option><option>MA</option><option>MS - Norte</option><option>MT - Médio Norte</option><option>MT - Parecis</option><option>MT - Sul de Alta Altitude</option><option>MT - Sul de Baixa Altitude</option><option>MT - Vale do Araguaia</option><option>MT/RO - Vale do Guaporé</option><option>PI</option><option>TO - Norte</option><option>TO - Sul</option>                                        </select>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col">
+                                        <input type="submit" id="btnSubmit" class="btn btn-form" value="Enviar solicitação" />
+                                    </div>
+                                </div>
+                            </form>                
+
+                        </div>
+
+                    <div class="cultivar-testimonials d-sm-none">
+                        <h2>Depoimentos:</h2>
+                                                        <div class="dep-cultivar-carousel owl-carousel">
+                                                                    </div>
+                                                    </div>                            
+
+                </div>
+
+            </div>
+
+
+        </div>
+    
+            
+</section>
+<footer id="footer" class="d-print-none">
+    <div class="widget-area gradient-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="tm-widget wow fadeIn" data-wow-duration=".5s" data-wow-delay=".3s">
+                        <div class="tm-widget-text">
+                            <h2 class="text-center" style="font-size: 3em">#tmgenetica</h2>
+                            <h2 class="text-center">Além da Produtividade</h2>
+                            <div class="pb-3"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <p class="copyright-text">&copy; 2022 TMG Tropical Melhoramento &amp; Genética S.A.</p>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <div class="copyright-nav">
+                        <ul>
+<!--                            <li><a href="#" target="_blank">Instagram</a></li>
+                            <li><a href="#" target="_blank">Facebook</a></li>
+                            <li><a href="#" target="_blank">LinkedIn</a></li>
+                            <li><a href="#" target="_blank">Youtube</a></li>
+                            <li><a href="#" target="_blank">Flickr</a></li>-->
+                            <li><a href="https://www.tmg.agr.br/ptbr/privacidade">Política de Privacidade</a></li>
+                            <li><a href="javascript:window.Confirmic('ConsentManager:show')">Cookies</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Integrate</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Portais</a></li>
+                            <!-- <li><a href="https://novostalentos.tmg.agr.br" target="_blank">Programa Novos Talentos</a></li> -->
+                            <li><a href="http://www.tmg.agr.br/trabalheconosco" target="_blank">Trabalhe Conosco</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-2.2.0.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.easing.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.mobile.custom.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/vide/jquery.vide.min.js"></script>
+
+        <script src="https://www.tmg.agr.br/vendor/owl/owl.carousel.min.js"></script>
+        <script src="https://www.tmg.agr.br/vendor/lity/lity.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/parallax/parallax.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/isotope/isotope.pkgd.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/isotope/portfolio.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/tether/tether.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/popper/popper.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/wow/wow.min.js"></script>
+<script>new WOW().init();</script>
+<script src="https://www.tmg.agr.br/vendor/styles/scripts.js?7272075917"></script>
+
+        <script>
+            $('#consultoria').on('click', function(){
+                $('#form-consultoria').slideDown('fast');
+            });
+            $('#form-request').submit(function (e) {
+                e.preventDefault();
+                $('#btnSubmit').attr('disabled', 'disabled');
+                var form = $(this);
+                form.append('<div class="register-email-return col-12 mt-4"><div class="loader">Carregando...</div></div>');
+                $.ajax({
+                    method: "POST",
+                    url: "https://www.tmg.agr.br/ptbr/fale-conosco/consultor",
+                    data: form.serialize()
+                }).done(function (response) {
+                    if (response.status == "success") {
+                        var responseTextClass = "background-text-green";
+                        $('#newsletter-email').val('');
+                    } else {
+                        var responseTextClass = "background-text-orange";
+                    }
+                    $('.register-email-return').html('<h2 class="' + responseTextClass + '">' + response.msg + '</h2>');
+                }).fail(function () {
+                    $('.register-email-return').html('<h2 class="background-text-orange">Erro ao cadatrar seu e-mail, tente novamente.</h2>');
+                }).always(function () {
+                    setTimeout(function () {
+                        form.find('.register-email-return').fadeOut('slow').remove();
+                    }, 3000);
+                    $('#btnSubmit').removeAttr('disabled');
+                });
+            });
+        </script>
+        
+    </body>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-12814928-1', 'auto');
+        ga('send', 'pageview');
+    </script>    
+</html>

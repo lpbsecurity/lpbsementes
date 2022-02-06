@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="application-name" content="">
+    <meta name="description" content="Cultivares de soja com ampla resistência a cisto, excelentes ferramentas para o manejo de nematoides.">
+    <meta name="apple-mobile-web-app-title" content="TMG">
+    <meta name="application-name" content="TMG">
+    <meta name="msapplication-TileColor" content="#246886">
+    <meta name="theme-color" content="#246886"> 
+    
+    <meta property="og:title" content="Ampla Resistência a Cisto - TMG" />
+    <meta property="og:url" content="https://www.tmg.agr.br/ptbr/tecnologias/ampla-resistencia-cisto" />    
+    <meta property="og:description" content="Cultivares de soja com ampla resistência a cisto, excelentes ferramentas para o manejo de nematoides." />  
+    <meta property="og:type" content="article" />
+    <meta property="og:locale" content="pt-br" /> 
+    <meta property="og:image" content="https://www.tmg.agr.br/vendor/styles/rx/images/rx.png" />
+    <meta property="article:author" content="https://www.facebook.com/tmgenetica" />
+    <meta property="article:publisher" content="https://www.facebook.com/tmgenetica" /> 
+    <meta property="fb:app_id" content="383319985016928" />
+    <meta name="facebook-domain-verification" content="3vlls5csfxgmbragzj42oz5boumbfa" />
+    
+    <title>Ampla Resistência a Cisto - TMG</title>
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.tmg.agr.br/images/icons/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.tmg.agr.br/images/icons/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.tmg.agr.br/images/icons/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://www.tmg.agr.br/images/icons/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://www.tmg.agr.br/images/icons/favicon/safari-pinned-tab.svg" color="#246886">
+
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.css">
+            
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/normalize.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/animate/animate.css">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,800">
+    <link rel="stylesheet" href="https://use.typekit.net/mjw2ffj.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.css" />
+
+            <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/fancybox/dist/jquery.fancybox.min.css">
+        <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/lity/lity.css">
+                <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/owl/assets/owl.carousel.min.css">
+        <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/owl/assets/owl.theme.default.min.css">
+        
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style.css?932362941">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style2.css?672096013">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/responsive.css?205702308">
+    
+            <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/cisto/styles/cisto.css?593955655">
+                
+    <script src="https://www.tmg.agr.br/vendor/modernizr/modernizr.js"></script>
+    
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '681180552296000'); 
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=681180552296000&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->    
+    
+    <!-- Google ADS -->    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-580154035"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-580154035');
+    </script>
+    <!-- Google ADS -->    
+    
+    <!-- Cookie-Script -->
+    <script src="https://config.confirmic.com/config.js?id=prj:2884a71c-0a76-4f48-ac59-a6f0fe60822d" crossorigin charset="utf-8"></script>
+    <script src="https://consent-manager.confirmic.com/embed.js" crossorigin charset="utf-8"></script>
+
+</head>    <body>
+        <header class="black">
+    <div class="container">
+        <nav id="mainNav" class="navbar navbar-expand-lg navbar-light bg-light">
+            <h1 class="navbar-brand m-0">
+                <a class="logo js-scroll-trigger" href="https://www.tmg.agr.br/" title="TMG"><img src="https://www.tmg.agr.br/images/tmgw.svg" style="width: 100px" alt="TMG"></a>
+            </h1>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" 
+                    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Navegação">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav right-menu light-bg">
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/institucional">Institucional</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuCtv" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Cultivares                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuCtv">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/soja">Soja</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/algodao">Algodão</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuTec" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Tecnologias                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuTec">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/inox">Inox<sup>&reg;</sup></a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/rx">Rx</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/ampla-resistencia-cisto">Ampla Resistência à Cisto</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/produtividade">Produtividade</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/licenciados">Licenciados</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/noticias">Notícias</a>
+                    </li>
+                    <li class="nav-item dropdown m-contato">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuContato" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Contato                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuContato">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/fale-conosco">Fale Conosco</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/equipe">Equipe Comercial</a>
+<!--                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/trabalheconosco">Trabalhe com a gente</a>-->
+                        </div>
+                    </li>
+                    
+                    
+                </ul>
+                <!-- <ul class="right-menu light-bg">
+                    <li class="nav-item">
+                        <select class="language">
+                            <option value="">PT</option>
+                            <option value="">EN</option>
+                            <option value="">ES</option>
+                        </select>
+                    </li>
+                </ul> -->
+            </div>
+        </nav>
+    </div>
+</header>
+<div class="d-none d-print-block mb-5 text-center">
+    <img src="https://www.tmg.agr.br/images/tmgb.png" alt="TMG">
+</div>
+        <div class="img-1">
+            
+            <div class="container-fluid p-0 m-0">
+                <div class="parallax-window" data-parallax="scroll" data-image-src="https://www.tmg.agr.br/vendor/styles/cisto/images/backtop.jpg">
+                    <div class="img-1-body container">
+                        <div class="row">
+                            <div class="col-12 col-sm-6">
+                                &nbsp;
+                            </div>
+                            <div class="col-12 col-sm-6 text-center">
+                                <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/ampla-cisto.png" />
+                                <h2>
+                                    <span>mais</span><br />
+                                    segurança e <br />
+                                    produtividade <br />
+                                    <span>no campo</span>
+                                </h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+        <article class="text-2 py-5 my-5">
+
+            <div class="container">
+                
+                <p>Muito comum em todas as regiões produtoras do Brasil, o Nematoide de Cisto da Soja (NCS), <em>Heterodera glycines</em>, é o que tem maior poder de causar <strong>perdas</strong>, entre <strong>5% e 30% em locais com baixas infestações</strong>, e até <strong>70% naqueles com maior incidência</strong>. A ocorrência do NCS é mais prevalente no estado de Mato Grosso, principalmente em locais com solos arenosos ou médio-arenosos.</p>
+                
+            </div>
+
+        </article>
+
+        <div class="img-2">
+            
+            <div class="container-fluid p-0 m-0">
+                <div class="parallax-window" data-parallax="scroll" data-image-src="https://www.tmg.agr.br/vendor/styles/cisto/images/backb.jpg">
+                    <div class="img-1-body container">
+                        <div class="row">
+                            <div class="col text-center wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                                <h2>NEMATOIDE DE CISTO DA SOJA.<br />É POSSÍVEL CONVIVER?</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+        <article class="text-3 py-5 my-5">
+            
+            <div class="container">
+                
+                <p>O NCS apresenta grande variabilidade genética e, por isso, as populações desse fitonematoide podem, com o passar do tempo, quebrar a resistência das cultivares existentes. Uma outra característica é que o cisto pode permanecer viável no ambiente por até oito anos, sendo praticamente impossível se livrar do problema, uma vez que ele seja detectado. Assim, o sojicultor tem que aprender a conviver, através do manejo da fertilidade do solo, do uso de cultivares resistentes e até de nematicidas.</p>
+                <h2 class="py-4 text-center background-text-red wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">VEM COM A GENTE QUE EXPLICAMOS TUDO!</h2>
+                <figure class="text-center wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                    <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/lp.png" />
+                </figure>
+                <h2 class="py-4 text-center wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">EM PRIMEIRO LUGAR... COMO IDENTIFICAR?</h2>
+                
+            </div>
+            
+        </article>
+
+        <div class="img-3">
+            
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col p-0 m-0 text-center">
+                        <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/l1.jpg?1" />
+                    </div>
+                </div>                
+            </div>
+            
+        </div>
+
+        <article class="text-2 py-5 my-5">
+            <div class="container">
+                <p>Nem sempre plantas atacadas pelo NCS vão exibir algum sintoma evidente na parte aérea, exceto uma ligeira redução no porte. Isso pode acontecer em regiões com boa distribuição de chuvas e em solos de fertilidade naturalmente mais alta.</p>
+            </div>
+        </article>
+
+        <article class="text-2 py-2 my-2">
+            <div class="container">
+                <h4 class="text-center">O diagnóstico definitivo requer observação. Veja essas importantes dicas:</h4>
+            </div>
+        </article>
+
+        <div class="ncs-carousel owl-carousel py-5">
+            
+            <div class="row">
+                <div class="col-3">&nbsp;</div>
+                <div class="col-6">
+                    <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/ncs1.jpg" />
+                    <p>Observar, a partir da quinta semana após a semeadura da soja, se há presença de fêmeas do nematoide do tamanho aproximado da ponta de uma caneta esferográfica e em formato de limão, com coloração branco amarelada, presas nas raízes das plantas. Fica mais fácil a visualização se esperar alguns minutos para que a raiz seque um pouco.</p>
+                </div>
+                <div class="col-3">&nbsp;</div>
+            </div>            
+            
+            <div class="row">
+                <div class="col-3">&nbsp;</div>
+                <div class="col-6">
+                    <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/ncs2.jpg" />
+                    <p>Associado a isso, fazer a diagnose dessas fêmeas em laboratório qualificado de análises nematológicas para a constatação da presença de cistos no solo.</p>
+                </div>
+                <div class="col-3">&nbsp;</div>
+            </div>            
+
+            <div class="row">
+                <div class="col-3">&nbsp;</div>
+                <div class="col-6">
+                    <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/ncs3.jpg" />
+                    <p>Quando há maior pressão do nematoide, é possível perceber que o processo de alimentação nas raízes causa intenso subdesenvolvimento na parte aérea e amarelecimento das plantas (sintoma de fome mineral) e, em muitos casos, poucas vagens. Em anos de estiagem, os sintomas podem se agravar.</p>
+                </div>
+                <div class="col-3">&nbsp;</div>
+            </div>            
+            
+        </div>
+
+        <article class="text-2 py-2 mt-2 mb-5">
+            <div class="container text-center">
+                <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/c.gif" />
+                <h4 class="text-center mt-4 mb-4" style="line-height: 2em">Em lavouras onde a população do fitonematoide é muito<br />
+                    alta também pode ocorrer morte prematura de plantas</h4>
+                <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/cp.gif?1" style="width: 35%" class="wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s" />
+                <h4 class="background-text-red mt-5">E atenção!</h4>
+                <p>Esses sintomas podem ser facilmente confundidos com...<br />
+                    Fitotoxicidade por defensivos agrícolas <br />
+                    Deficiência nutricional, especialmente nitrogênio e potássio e certos micronutrientes <br />
+                    Compactação do solo e outras desordens fisiológicas</p>
+                <h4 class="background-text-purple">Portanto, muito cuidado!</h4>
+            </div>
+        </article>
+
+        <div class="img-4">
+            
+            <div class="container-fluid p-0 m-0">
+                <div class="parallax-window" data-parallax="scroll" data-image-src="https://www.tmg.agr.br/vendor/styles/cisto/images/l2.jpg">
+                    <div class="img-1-body container">
+                        <div class="row">
+                            <div class="col text-center wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                                <h2>COMO PROTEGER A LAVOURA DESTE PROBLEMÃO?</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+        <article class="text-2 py-2 mt-2 mb-5">
+            <div class="container text-center">
+                <h4 class="text-center mt-4 mb-4">CULTIVARES DE SOJA COM</h4>
+                <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/ampla.jpg" style="width: 38%" class="wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s" />
+                <h4 class="text-center mt-4 mb-4">UMA CONQUISTA DA TMG PARA OS PRODUTORES</h4>
+                <p>A técnica mais efetiva no manejo dos nematoides e menos onerosa ao produtor é o uso de cultivares resistentes, que limitam a reprodução dos nematoides. Neste sentido, o Programa de Melhoramento Genético da TMG, através de um trabalho massivo e de assertividade, desenvolveu as seguintes cultivares de soja:</p>
+                <!--                <h4 class="background-text-purple">Portanto, muito cuidado!</h4>-->
+            </div>
+        </article>
+
+        <div class="text-10 my-5 pb-5">
+            
+            <div class="container text-center mb-4">
+                <div class="row my-5">
+                    <div class="col-12 col-lg-3 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-2285-ipro">
+                            <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/tmg2285.jpg" />
+                        </a>
+                        <p>Resistente às raças<br />1, 2, 3, 5, 6, 9 e 14</p>
+                    </div>
+                    <div class="col-12 col-lg-3 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-2776-ipro">
+                            <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/tmg2776.jpg" />
+                        </a>
+                        <p>Resistente às raças<br />1, 2, 3, 4, 5, 6, 9, 10 e 14</p>
+                    </div>
+                    <div class="col-12 col-lg-3 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-2381-ipro">
+                            <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/tmg2381.jpg" />
+                        </a>
+                        <p>Resistente às raças<br />1, 3, 4, 5, 6, 9, 10 e 14</p>
+                    </div>
+                    <div class="col-12 col-lg-3 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-4182">
+                            <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/tmg4182.jpg" />
+                        </a>
+                        <p>Resistente às raças<br />1, 2, 3, 4, 5, 6, 9, 10 e 14</p>
+                    </div>
+                    <div class="col-12 col-lg-3 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".7s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-4185">
+                            <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/tmg4185.jpg" />
+                        </a>
+                        <p>Resistente às raças<br />1, 3, 4, 6, 9, 10 e 14<br />Mod. Resistente às raças 2 e 5</p>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+        <article class="text-3 py-2 mt-2 mb-5">
+            <div class="container text-center">
+                <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/1st.jpg" style="width: 35%" class="wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s" />
+                <h6 class="text-center mt-4 mb-4">AS CULTIVARES COM AMPLA RESISTÊNCIA A CISTO DA TMG SÃO</h6>
+                <h4 class="text-center mt-4 mb-4">MAIS RESISTENTES QUE A MAIORIA DAS CULTIVARES DO MERCADO</h4>
+                <p class="text-bold"><em>E o que isso significa?</em></p>
+                <p>Que esse atributo desenvolvido pela TMG traz mais produtividade com segurança, pois a resistência praticamente impede que o NCS se multiplique, mantendo a população sob controle, ou seja, abaixo do nível de dano.</p>
+                <p>Ainda assim, é importante outras medidas que ajudam a minimizar as perdas. Veja quais:</p>
+                <ul>
+                    <li><strong>Rotação de culturas</strong> com plantas não hospedeiras e controle da soja tiguera ou de espécie hospedeira na área durante a entressafra.</li>
+                    <li><strong>Adoção da semeadura direta</strong> e de práticas que aumentem o teor de matéria orgânica e a fertilidade do solo, propiciando um aumento da fauna microbiológica do solo que atua na redução do tempo de viabilidade do cisto.</li>
+                    <li><strong>Manutenção do pH do solo</strong> dentro dos níveis recomendados para a região.</li>
+                </ul>
+            </div>
+        </article>
+
+        <!-- <div class="img-5">
+            
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12 col-sm-6 p-0 m-0 text-right">
+                        <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/cptext.jpg?1" style="width: 75%" class="wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s" />
+                    </div>
+                    <div class="col-12 col-sm-6 p-0 m-0 text-left">
+                        <img src="https://www.tmg.agr.br/vendor/styles/cisto/images/cpgra.jpg?1" style="width: 85%" class="wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s" />
+                    </div>
+                </div>
+            </div>
+            
+        </div> -->
+        
+        <div class="my-5 pb-5">
+            
+            <div class="container text-center mb-4">
+                <div class="row my-5">
+                    <div class="col text-center">
+                        <h4>Veja mais cultivares de soja do portfólio TMG, com resistência a cisto:</h4>
+                    </div>
+                </div>
+                <div class="row my-5">
+                    <div class="col-6 col-lg-2 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-2383-ipro">
+                            <img src="https://www.tmg.agr.br/images/cultivars/1551708954192355.png" />
+                        </a>
+                    </div>
+                    <div class="col-6 col-lg-2 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-2379-ipro">
+                            <img src="https://www.tmg.agr.br/images/cultivars/1575637734131496.png" />
+                        </a>
+                    </div>
+                    <div class="col-6 col-lg-2 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-2378-ipro">
+                            <img src="https://www.tmg.agr.br/images/cultivars/1551708895455922.png" />
+                        </a>
+                    </div>
+                    <div class="col-6 col-lg-2 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-2185-ipro">
+                            <img src="https://www.tmg.agr.br/images/cultivars/1551708828033487.png" />
+                        </a>
+                    </div>
+                    <div class="col-6 col-lg-2 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-2173-ipro">
+                            <img src="https://www.tmg.agr.br/images/cultivars/1551708720733481.png" />
+                        </a>
+                    </div>
+                    <div class="col-6 col-lg-2 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-2181-ipro">
+                            <img src="https://www.tmg.agr.br/images/cultivars/1551708766357658.png" />
+                        </a>
+                    </div>
+                    <div class="col-6 col-lg-2 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-1182-rr">
+                            <img src="https://www.tmg.agr.br/images/cultivars/1551220388185654.png" />
+                        </a>
+                    </div>
+                    <div class="col-6 col-lg-2 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-1188-rr">
+                            <img src="https://www.tmg.agr.br/images/cultivars/1551220477083350.png" />
+                        </a>
+                    </div>
+                    <div class="col-6 col-lg-2 mb-5 wow fadeIn" data-wow-duration=".5s" data-wow-delay=".5s">
+                        <a href="https://www.tmg.agr.br/ptbr/cultivar/tmg-4377">
+                            <img src="https://www.tmg.agr.br/images/cultivars/1587563456670128.png" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+        </div>        
+
+        <article class="text-3 py-5 my-4">
+            <div class="container text-center">
+                <h3>IMPORTANTE</h3>
+                <p>O uso de cultivares resistentes a cisto provoca uma pressão de seleção na população de nematoides, que desenvolve novas raças, ou biótipos, capazes de parasitar estes materiais. É importante que não se utilize por duas safras seguidas a mesma cultivar, ainda que seja de ampla resistência.</p>
+            </div>
+        </article>
+<footer id="footer" class="d-print-none">
+    <div class="widget-area gradient-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="tm-widget wow fadeIn" data-wow-duration=".5s" data-wow-delay=".3s">
+                        <div class="tm-widget-text">
+                            <h2 class="text-center" style="font-size: 3em">#tmgenetica</h2>
+                            <h2 class="text-center">Além da Produtividade</h2>
+                            <div class="pb-3"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <p class="copyright-text">&copy; 2022 TMG Tropical Melhoramento &amp; Genética S.A.</p>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <div class="copyright-nav">
+                        <ul>
+<!--                            <li><a href="#" target="_blank">Instagram</a></li>
+                            <li><a href="#" target="_blank">Facebook</a></li>
+                            <li><a href="#" target="_blank">LinkedIn</a></li>
+                            <li><a href="#" target="_blank">Youtube</a></li>
+                            <li><a href="#" target="_blank">Flickr</a></li>-->
+                            <li><a href="https://www.tmg.agr.br/ptbr/privacidade">Política de Privacidade</a></li>
+                            <li><a href="javascript:window.Confirmic('ConsentManager:show')">Cookies</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Integrate</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Portais</a></li>
+                            <!-- <li><a href="https://novostalentos.tmg.agr.br" target="_blank">Programa Novos Talentos</a></li> -->
+                            <li><a href="http://www.tmg.agr.br/trabalheconosco" target="_blank">Trabalhe Conosco</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-2.2.0.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.easing.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.mobile.custom.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/vide/jquery.vide.min.js"></script>
+
+        <script src="https://www.tmg.agr.br/vendor/owl/owl.carousel.min.js"></script>
+        <script src="https://www.tmg.agr.br/vendor/lity/lity.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/parallax/parallax.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/isotope/isotope.pkgd.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/isotope/portfolio.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/tether/tether.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/popper/popper.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/wow/wow.min.js"></script>
+<script>new WOW().init();</script>
+<script src="https://www.tmg.agr.br/vendor/styles/scripts.js?8083342951"></script>
+
+
+    </body>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-12814928-1', 'auto');
+        ga('send', 'pageview');
+    </script>    
+</html>

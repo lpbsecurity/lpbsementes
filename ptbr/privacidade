@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="application-name" content="">
+    <meta name="description" content="Cultivares de soja e algodão produtivas e dotadas de tecnologia, para que enfrentem os desafios do campo e proporcionem mais segurança ao produtor">
+    <meta name="apple-mobile-web-app-title" content="TMG">
+    <meta name="application-name" content="TMG">
+    <meta name="msapplication-TileColor" content="#246886">
+    <meta name="theme-color" content="#246886"> 
+    
+    <meta property="og:title" content="TMG - Tropical Melhoramento &amp; Genética" />
+    <meta property="og:url" content="https://www.tmg.agr.br/ptbr/privacidade" />    
+    <meta property="og:description" content="Cultivares de soja e algodão produtivas e dotadas de tecnologia, para que enfrentem os desafios do campo e proporcionem mais segurança ao produtor" />  
+    <meta property="og:type" content="article" />
+    <meta property="og:locale" content="pt-br" /> 
+    <meta property="og:image" content="" />
+    <meta property="article:author" content="https://www.facebook.com/tmgenetica" />
+    <meta property="article:publisher" content="https://www.facebook.com/tmgenetica" /> 
+    <meta property="fb:app_id" content="383319985016928" />
+    <meta name="facebook-domain-verification" content="3vlls5csfxgmbragzj42oz5boumbfa" />
+    
+    <title>TMG - Tropical Melhoramento &amp; Genética</title>
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.tmg.agr.br/images/icons/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.tmg.agr.br/images/icons/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.tmg.agr.br/images/icons/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://www.tmg.agr.br/images/icons/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://www.tmg.agr.br/images/icons/favicon/safari-pinned-tab.svg" color="#246886">
+
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.css">
+            
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/normalize.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/animate/animate.css">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,800">
+    <link rel="stylesheet" href="https://use.typekit.net/mjw2ffj.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.css" />
+
+    
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style.css?650064268">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style2.css?602046685">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/responsive.css?869797663">
+    
+            
+    <script src="https://www.tmg.agr.br/vendor/modernizr/modernizr.js"></script>
+    
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '681180552296000'); 
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=681180552296000&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->    
+    
+    <!-- Google ADS -->    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-580154035"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-580154035');
+    </script>
+    <!-- Google ADS -->    
+    
+    <!-- Cookie-Script -->
+    <script src="https://config.confirmic.com/config.js?id=prj:2884a71c-0a76-4f48-ac59-a6f0fe60822d" crossorigin charset="utf-8"></script>
+    <script src="https://consent-manager.confirmic.com/embed.js" crossorigin charset="utf-8"></script>
+
+</head>    <body>
+        <header class="black">
+    <div class="container">
+        <nav id="mainNav" class="navbar navbar-expand-lg navbar-light bg-light">
+            <h1 class="navbar-brand m-0">
+                <a class="logo js-scroll-trigger" href="https://www.tmg.agr.br/" title="TMG"><img src="https://www.tmg.agr.br/images/tmgw.svg" style="width: 100px" alt="TMG"></a>
+            </h1>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" 
+                    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Navegação">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav right-menu light-bg">
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/institucional">Institucional</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuCtv" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Cultivares                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuCtv">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/soja">Soja</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/algodao">Algodão</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuTec" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Tecnologias                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuTec">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/inox">Inox<sup>&reg;</sup></a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/rx">Rx</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/ampla-resistencia-cisto">Ampla Resistência à Cisto</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/produtividade">Produtividade</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/licenciados">Licenciados</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/noticias">Notícias</a>
+                    </li>
+                    <li class="nav-item dropdown m-contato">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuContato" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Contato                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuContato">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/fale-conosco">Fale Conosco</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/equipe">Equipe Comercial</a>
+<!--                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/trabalheconosco">Trabalhe com a gente</a>-->
+                        </div>
+                    </li>
+                    
+                    
+                </ul>
+                <!-- <ul class="right-menu light-bg">
+                    <li class="nav-item">
+                        <select class="language">
+                            <option value="">PT</option>
+                            <option value="">EN</option>
+                            <option value="">ES</option>
+                        </select>
+                    </li>
+                </ul> -->
+            </div>
+        </nav>
+    </div>
+</header>
+<div class="d-none d-print-block mb-5 text-center">
+    <img src="https://www.tmg.agr.br/images/tmgb.png" alt="TMG">
+</div>
+<section id="page">
+    <div class="container-fluid page-header">
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <div class="pt-title title-center text-white">
+                    <h1>Política de Privacidade</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <style>
+
+        .policy {
+            margin-bottom: 8em;
+        }
+        .policy ul {
+            padding-left: 2em;
+            margin-bottom: 1em;
+        }
+        .policy ul li {
+            list-style: inherit;
+        }
+
+    </style>
+
+    <div class="container">
+        <div class="row">
+            <div class="col text-justify policy">
+
+                <p>Este website www.tmg.agr.br (doravante &quot;Website&quot;) pertence &agrave; <strong>TMG Tropical Melhoramento e Gen&eacute;tica S.A.</strong> Para obter mais Informa&ccedil;&otilde;es sobre a empresa, consulte o <a href="#" data-toggle="modal" data-target="#exampleModal">imprint</a>.</p>
+
+                <p><strong>1 O PROP&Oacute;SITO DESTA POL&Iacute;TICA DE PRIVACIDADE</strong></p>
+
+                <p>A TMG Tropical Melhoramento e Gen&eacute;tica S.A. (doravante denominada como &ldquo;TMG&rdquo;) leva a s&eacute;rio sua privacidade e sabe que voc&ecirc; se preocupa com a maneira com que suas informa&ccedil;&otilde;es s&atilde;o utilizadas. Por esse motivo, esta Pol&iacute;tica de Privacidade destina-se a ajudar voc&ecirc; a entender melhor como a TMG utiliza seus Dados Pessoais, al&eacute;m de ser aplic&aacute;vel a todos os Dados Pessoais coletados atrav&eacute;s deste website ou outras aplica&ccedil;&otilde;es/plataformas de internet.</p>
+
+                <p>Todo o Tratamento de Dados Pessoais realizado pela TMG se d&aacute; em estrita observ&acirc;ncia aos dispositivos e princ&iacute;pios estabelecidos pela Lei 13.709/2018 &ndash; Lei Geral de Prote&ccedil;&atilde;o de Dados (&ldquo;LGPD&rdquo;), que garante aos Titulares uma s&eacute;rie de direitos, mas, principalmente, o direito de entender como seus dados s&atilde;o utilizados. Assim, &eacute; importante que todos os Titulares de Dados Pessoais fa&ccedil;am a leitura desta Pol&iacute;tica para melhor compreens&atilde;o dos compromissos e obriga&ccedil;&otilde;es da TMG visando a garantia da sua privacidade e prote&ccedil;&atilde;o dos seus dados pessoais. O uso respons&aacute;vel de Dados Pessoais &eacute; um valor fundamental da TMG.</p>
+
+                <p><strong>1.1 Defini&ccedil;&otilde;es</strong></p>
+
+                <p>O termo &ldquo;Dados Pessoais&rdquo; refere-se &agrave;s informa&ccedil;&otilde;es relacionadas a uma pessoa natural identificada ou identific&aacute;vel, por exemplo: nome, sexo, idade ou data de nascimento, endere&ccedil;o de e-mail ou endere&ccedil;o de correspond&ecirc;ncia pessoal, telefone (inclusive telefone celular) ou n&uacute;mero do fax, n&uacute;mero de identifica&ccedil;&atilde;o do contribuinte do Fornecedor ou do Cliente, n&uacute;mero de identifica&ccedil;&atilde;o nacional, como Cadastro de Pessoas F&iacute;sicas, n&uacute;mero de identifica&ccedil;&atilde;o emitido pela empresa, informa&ccedil;&otilde;es financeiras para an&aacute;lise de cr&eacute;dito, informa&ccedil;&otilde;es banc&aacute;rias (como n&uacute;meros de conta e roteamento). J&aacute; o termo &ldquo;Dado Pessoal Sens&iacute;vel&rdquo; refere-se a informa&ccedil;&otilde;es relacionadas &agrave; origem racial ou &eacute;tnica, convic&ccedil;&atilde;o religiosa, opini&atilde;o pol&iacute;tica, filia&ccedil;&atilde;o a sindicato ou a organiza&ccedil;&atilde;o de car&aacute;ter religioso, filos&oacute;fico ou pol&iacute;tico, dado referente &agrave; sa&uacute;de ou &agrave; vida sexual, dado gen&eacute;tico ou dado biom&eacute;trico, quando vinculado a uma pessoa natural.</p>
+
+                <p><strong>2 DADOS PESSOAIS UTILIZADOS PELA TMG E SUAS RESPECTIVAS FINALIDADES</strong></p>
+
+                <p>Os Dados Pessoais coletados e tratados pela TMG atrav&eacute;s deste Website e/ou outras aplica&ccedil;&otilde;es/plataformas de internet possuem diferentes finalidades, conforme especifica&ccedil;&atilde;o abaixo:</p>
+
+                <p><strong>2.1 Dados Pessoais de Candidatos a Vagas de Emprego:</strong></p>
+
+                <ul>
+                    <li>Formar banco de dados de candidatos, renovado a cada tr&ecirc;s anos;</li>
+                    <li>Incluir candidatos em processos de recrutamento e sele&ccedil;&atilde;o para admiss&atilde;o pela empresa;</li>
+                    <li>Discutir e decidir sobre a aprova&ccedil;&atilde;o ou rejei&ccedil;&atilde;o de candidatos e responder a consultas sobre o resultado do processo de recrutamento e sele&ccedil;&atilde;o;</li>
+                    <li>Entrar em contato com candidatos a vagas de emprego para tratar de assuntos relacionados a um potencial processo de recrutamento e sele&ccedil;&atilde;o; e</li>
+                    <li>Implementar programas de trainee, est&aacute;gio ou de aprendizagem.</li>
+                </ul>
+
+                <p><strong>2.2 Dados Pessoais de Consumidores e Usu&aacute;rios do Website</strong></p>
+
+                <ul>
+                    <li>Prestar o servi&ccedil;o geral de atendimento ao consumidor;</li>
+                    <li>Enviar newsletters ou comunicados com informa&ccedil;&otilde;es relacionadas ao neg&oacute;cio da TMG;</li>
+                    <li>Remeter material promocional com novidades e esclarecimentos acerca dos produtos da TMG;</li>
+                    <li>Rever, investigar e responder a detalhes de consultas, d&uacute;vidas e comunica&ccedil;&otilde;es, inclusive sobre os produtos da TMG; e</li>
+                    <li>Fornecer informa&ccedil;&otilde;es sobre eventos realizados ou patrocinados pela TMG.</li>
+                </ul>
+
+                <p>Dados de Menores de 18 Anos. A TMG n&atilde;o coleta Dados Pessoais de menores de dezoito anos. Se voc&ecirc; tiver menos que dezoito anos, favor n&atilde;o fornecer quaisquer Dados Pessoais ao site. Se voc&ecirc; tiver conhecimento de que um menor de dezoito anos tenha fornecido seus Dados Pessoais, favor nos contatar por meio de nossa Encarregada, e n&oacute;s nos responsabilizaremos por apagar esses Dados Pessoais de nossa base de dados.</p>
+
+                <p><strong>3 UTILIZA&Ccedil;&Atilde;O DO NOSSO WEBSITE</strong></p>
+
+                <p><strong>3.1 Acesso ao nosso Website</strong></p>
+
+                <p>Quando voc&ecirc; acessa o nosso Website, seu navegador ir&aacute; transferir determinados dados para o nosso servidor web. Isso &eacute; feito por raz&otilde;es t&eacute;cnicas e a TMG garante total transpar&ecirc;ncia para que voc&ecirc; tenha ci&ecirc;ncia de que os seguintes dados s&atilde;o coletados, armazenados e utilizados:</p>
+
+                <ul>
+                    <li>Endere&ccedil;o IP</li>
+                    <li>Data, hora do acesso</li>
+                    <li>Diferen&ccedil;a de fuso hor&aacute;rio para hor&aacute;rio de Greenwich (GMT)</li>
+                    <li>Conte&uacute;do da solicita&ccedil;&atilde;o (website espec&iacute;fico)</li>
+                    <li>Status do acesso/c&oacute;digo de status HTTP</li>
+                    <li>Volume de dados transferidos</li>
+                    <li>Acesso solicitado pelo website</li>
+                    <li>Navegador, idioma, vers&atilde;o do navegador, Sistema operacional</li>
+                </ul>
+
+                <p>Al&eacute;m disso, para proteger seus interesses leg&iacute;timos, a TMG armazena esses dados por um per&iacute;odo de tempo limitado para poder rastrear Dados Pessoais, no caso de acesso real ou tentativa de acesso n&atilde;o autorizados aos seus servidores (Lei Geral de Prote&ccedil;&atilde;o de Dados, n&ordm; 13.709/2018, Art. 7, IX).</p>
+
+                <p><strong>4 CONFIGURA&Ccedil;&Otilde;ES DE COOKIES</strong></p>
+
+                <p>a) O que s&atilde;o cookies?</p>
+
+                <p>Este Website usa os chamados &quot;cookies&quot;, que s&atilde;o pequenos arquivos de texto que s&atilde;o armazenados no seu computador, em um diret&oacute;rio do seu navegador. Eles armazenam certas informa&ccedil;&otilde;es (por exemplo, seu pa&iacute;s, seu idioma preferido ou configura&ccedil;&otilde;es do Website) que seu navegador pode (dependendo do tempo de vida do cookie) informar &agrave; TMG em sua pr&oacute;xima visita ao seu Website, possibilitando assim, a customiza&ccedil;&atilde;o dos servi&ccedil;os oferecidos e o aperfei&ccedil;oamento da sua experi&ecirc;ncia de navega&ccedil;&atilde;o.</p>
+
+                <p>b) Quais cookies a empresa utiliza?</p>
+
+                <p>A empresa utiliza duas categorias de cookies: (1) cookies funcionais, sem os quais a funcionalidade do Website seria reduzida, e (2) cookies opcionais utilizados para fins de marketing e an&aacute;lise de Websites. A tabela a seguir cont&eacute;m uma descri&ccedil;&atilde;o detalhada dos cookies que utilizamos:</p>
+
+                <table class="table table-bordered my-5">
+                    <thead>
+                        <tr>
+                            <th nowrap>Nome do cookie</th>
+                            <th>Finalidade</th>
+                            <th>Essenciais?</th>
+                            <th>Período de armazenamento</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <td>PHPSESSID</td>
+                            <td>Registrar a sessão de acesso ao site desenvolvido pela linguagem PHP</td>
+                            <td>Sim</td>
+                            <td>Expira quando termina a navegação</td>
+                        </tr>
+                        <tr>
+                            <td>_GID</td>
+                            <td>Registrar dados de navegação do usuário, como qual a caracterísitca do navegador, e dados registrados no Google, caso ele esteja logado no Google no momento.</td>
+                            <td>Sim</td>
+                            <td>2 anos</td>
+                        </tr>
+                        <tr>
+                            <td>COOKIE-SCRIPT</td>
+                            <td>Este cookie é uma parte dos serviços fornecidos pela Cloudflare - incluindo balanceamento de carga, entrega de conteúdo do site e serviço de conexão DNS para operadores de site.</td>
+                            <td>Sim</td>
+                            <td>Expira quando termina a navegação</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <p>Em todas as situa&ccedil;&otilde;es mencionadas acima, a TMG atua como Controladora dos dados.</p>
+
+                <p>Voc&ecirc; tem o direito de rejeitar cookies essenciais, mas, por exemplo, no caso do cookie PHPSESSID, sua navega&ccedil;&atilde;o pode ser prejudicada, em raz&atilde;o da tecnologia PHP necessitar do referido cookie.</p>
+
+                <p>A TMG n&atilde;o comercializa, sob qualquer hip&oacute;tese ou pretexto, dados ou informa&ccedil;&otilde;es pessoais de indiv&iacute;duos, internos ou externos.</p>
+
+                <p>c) Sujeito ao seu consentimento</p>
+
+                <p>A TMG s&oacute; utiliza cookies opcionais se tivermos obtido seu consentimento pr&eacute;vio (Lei Geral de Prote&ccedil;&atilde;o de Dados, n&ordm; 13.709/2018, Art. 7, I). Ap&oacute;s o seu primeiro acesso ao nosso website, uma mensagem aparecer&aacute;, solicitando que voc&ecirc; nos d&ecirc; seu consentimento para a configura&ccedil;&atilde;o de cookies opcionais. Se o seu consentimento for dado, disponibilizaremos um cookie no seu computador e a mensagem n&atilde;o aparecer&aacute; novamente enquanto o cookie estiver ativo. Ap&oacute;s o t&eacute;rmino da vida &uacute;til do cookie, ou se voc&ecirc; excluir o cookie ativamente, o banner reaparecer&aacute; na sua pr&oacute;xima visita ao nosso website e novamente solicitar&aacute; seu consentimento. Voc&ecirc; tem o direito de rejeitar o consentimento a cookies opcionais.</p>
+
+                <p>d) Como impedir a configura&ccedil;&atilde;o de cookies</p>
+
+                <p>Voc&ecirc; pode usar nosso website sem que nenhum cookie seja definido. A qualquer momento, no seu navegador, voc&ecirc; pode configurar ou desativar completamente o uso de cookies. Por&eacute;m, isso pode levar a uma restri&ccedil;&atilde;o das fun&ccedil;&otilde;es ou ter efeitos adversos na facilidade de uso do nosso website.</p>
+
+                <p><strong>5 DIREITOS E OBRIGA&Ccedil;&Otilde;ES DO TITULAR DOS DADOS PESSOAIS</strong></p>
+
+                <p>Enquanto Titular de Dados Pessoais tratados pela TMG, voc&ecirc; possui os seguintes direitos:</p>
+
+                <ul>
+                    <li>Liberdade, intimidade e privacidade;</li>
+                    <li>Informa&ccedil;&atilde;o: direito de obter informa&ccedil;&otilde;es claras sobre o Tratamento de seus Dados Pessoais, incluindo (i) a finalidade espec&iacute;fica do Tratamento; (ii) a forma e dura&ccedil;&atilde;o do Tratamento; (iii) a identifica&ccedil;&atilde;o do Controlador e suas informa&ccedil;&otilde;es de contato; (iv) informa&ccedil;&otilde;es acerca do uso compartilhado de Dados Pessoais pelo Controlador e a finalidade; (v) as responsabilidades dos agentes que realizar&atilde;o o Tratamento; (vi) seus direitos enquanto Titular; (vii) informa&ccedil;&otilde;es sobre possibilidade de n&atilde;o fornecer Consentimento: nos casos em que este &eacute; requerido &ndash; e as consequ&ecirc;ncias da negativa; e (viii) informa&ccedil;&otilde;es claras e adequadas a respeito dos crit&eacute;rios e dos procedimentos utilizados para a tomada de decis&atilde;o com base em Tratamento automatizado de Dados Pessoais;</li>
+                    <li>Confirma&ccedil;&atilde;o e acesso aos dados: direito de confirma&ccedil;&atilde;o da exist&ecirc;ncia de Tratamento e, por consequ&ecirc;ncia, o de acessar todos os Dados Pessoais de sua titularidade que est&atilde;o sendo coletados e tratados;</li>
+                    <li>Retifica&ccedil;&atilde;o: direito de corrigir dados incompletos, inexatos ou desatualizados;</li>
+                    <li>Anonimiza&ccedil;&atilde;o, bloqueio ou elimina&ccedil;&atilde;o: direito de requerer que seus Dados Pessoais sejam anonimizados, bloqueados ou exclu&iacute;dos caso tratados em desconformidade com a LGPD;</li>
+                    <li>Portabilidade: direito de receber todos os seus Dados Pessoais fornecidos, a fim de que estes sejam transmitidos a outro fornecedor de servi&ccedil;o ou produto;</li>
+                    <li>Revoga&ccedil;&atilde;o do Consentimento e elimina&ccedil;&atilde;o: direito de revogar, a qualquer tempo, o Consentimento e requerer a elimina&ccedil;&atilde;o dos dados cujo Consentimento for retirado;</li>
+                    <li>Oposi&ccedil;&atilde;o: direito de se opor a quaisquer Tratamentos que n&atilde;o estejam em conformidade com a LGPD;</li>
+                    <li>N&atilde;o discrimina&ccedil;&atilde;o: direito de n&atilde;o ter seus Dados Pessoais utilizados para fins discriminat&oacute;rios il&iacute;citos ou abusivos;</li>
+                    <li>Revis&atilde;o de decis&otilde;es automatizadas: direito de solicitar a revis&atilde;o de decis&otilde;es tomadas unicamente com base em tratamento automatizado de Dados Pessoais que afetem seus interesses;</li>
+                </ul>
+
+                <p>Seguran&ccedil;a: direito de ser notificado sobre qualquer incidente de seguran&ccedil;a que possa causar risco ou dano relevante &agrave; sua personalidade; e</p>
+
+                <p>Peti&ccedil;&atilde;o: direito de peticionar junto &agrave; Autoridade Nacional de Prote&ccedil;&atilde;o de Dados (ANPD), caso entenda que as pr&aacute;ticas adotadas pela TMG violam seus direitos.</p>
+
+                <p>&Eacute; importante notar, contudo, que algumas situa&ccedil;&otilde;es espec&iacute;ficas impossibilitar&atilde;o o atendimento dos Direitos dos Titulares. Dentre estas situa&ccedil;&otilde;es, destaca-se (i) n&atilde;o ser poss&iacute;vel fazer pedidos em nomes de terceiros, a menos que o pedido seja realizado por representante legal, mediante apresenta&ccedil;&atilde;o de procura&ccedil;&atilde;o espec&iacute;fica; (ii) n&atilde;o ser poss&iacute;vel a exclus&atilde;o de dados pessoais necess&aacute;rios para a execu&ccedil;&atilde;o de contratos em vigor ou cujo Tratamento decorra de obriga&ccedil;&atilde;o legal ou regulat&oacute;ria.</p>
+
+                <p>Outro ponto a ser ressaltado &eacute; que a revoga&ccedil;&atilde;o do Consentimento, nos casos em que o Consentimento &eacute; a base legal que justifica o Tratamento do dado pessoal, poder&aacute; inviabilizar a continuidade da presta&ccedil;&atilde;o do servi&ccedil;o ou do Tratamento por parte da TMG.</p>
+
+                <p>Para exerc&iacute;cio dos direitos mencionados acima, as solicita&ccedil;&otilde;es devem ser encaminhadas &agrave; Encarregada nomeado pela TMG, cujos contatos seguem indicados ao fim dessa Pol&iacute;tica.</p>
+
+                <p>A Encarregada poder&aacute; exigir a confirma&ccedil;&atilde;o de alguns Dados Pessoais do Titular, ou utilizar algum dispositivo de confirma&ccedil;&atilde;o de identidade do Titular, antes de repassar qualquer informa&ccedil;&atilde;o em posse da</p>
+
+                <p>TMG, a fim de prevenir que sejam repassados dados pessoais a terceiro que n&atilde;o seja o real Titular dos Dados Pessoais.</p>
+
+                <p>O Titular de Dados Pessoais &eacute; respons&aacute;vel pela precis&atilde;o e veracidade dos dados informados &agrave; TMG e est&aacute; ciente de que sua imprecis&atilde;o poder&aacute; implicar responsabilidades de natureza civil ou criminal, de acordo com as causas e consequ&ecirc;ncias a serem apuradas.</p>
+
+                <p>O Titular de Dados Pessoais &eacute; igualmente respons&aacute;vel pela repara&ccedil;&atilde;o de todos e quaisquer danos, diretos ou indiretos (inclusive em decorr&ecirc;ncia de viola&ccedil;&atilde;o de quaisquer direitos de outros Titulares de Dados Pessoais, direitos de propriedade intelectual, de sigilo e de personalidade), que sejam causados intencionalmente ou por culpa, por a&ccedil;&atilde;o ou omiss&atilde;o, &agrave; TMG, a seus funcion&aacute;rios ou a qualquer Titular de Dados Pessoais.</p>
+
+                <p>Na hip&oacute;tese de serem atribu&iacute;dos login e senha, o Titular dos Dados Pessoais assume inteira responsabilidade pela guarda, sigilo e correta utiliza&ccedil;&atilde;o, isentando a TMG de qualquer responsabilidade. Login e senha s&atilde;o individuais e n&atilde;o devem ser compartilhados com terceiros.</p>
+
+                <p><strong>6 ACESSO AOS DADOS TRATADOS PELA TMG</strong></p>
+
+                <p>Em geral, os Dados Pessoais fornecidos &agrave; TMG ser&atilde;o utilizados internamente pelos empregados da TMG e/ou por parceiros comerciais que terceirizem algum servi&ccedil;o para a TMG, incluindo, mas n&atilde;o se limitando &agrave; manuten&ccedil;&atilde;o do site, das redes sociais da TMG e do Servi&ccedil;o de Atendimento ao Consumidor.</p>
+
+                <p>Todos os prestadores de servi&ccedil;o que tratam Dados Pessoais em nome da TMG devem tomar medidas de seguran&ccedil;a adequadas para a prote&ccedil;&atilde;o dos dados. A TMG n&atilde;o permite que estes parceiros utilizem os Dados Pessoais em sua posse para fins diversos daqueles para os quais foram compartilhados, e, caso assim o fa&ccedil;am, responder&atilde;o exclusivamente por eventuais danos. Todas as atividades de Tratamento de Dados Pessoais conduzidas por esses parceiros dever&atilde;o observar os prop&oacute;sitos espec&iacute;ficos e as instru&ccedil;&otilde;es passadas pela TMG.</p>
+
+                <p>A TMG compromete-se a buscar parceiros que respeitem normas de privacidade e prote&ccedil;&atilde;o de dados, e, sempre que poss&iacute;vel, firmar acordos que estabele&ccedil;am normas claras sobre o papel de cada um dos agentes no Tratamento dos Dados Pessoais.</p>
+
+                <p><strong>7 TRANSFER&Ecirc;NCIA INTERNACIONAL DE DADOS</strong></p>
+
+                <p>Para facilitar suas opera&ccedil;&otilde;es globais, a TMG poder&aacute; transferir, armazenar e processar seus Dados Pessoais com provedores de servi&ccedil;os localizados em outros pa&iacute;ses - &eacute; o caso, por exemplo, dos servi&ccedil;os de e-mail, do armazenamento de documentos em nuvem e dos aplicativos de uso corporativo.</p>
+
+                <p>Nestes casos, asseguramos que a TMG sempre envidar&aacute; todos os esfor&ccedil;os poss&iacute;veis para que existam prote&ccedil;&otilde;es apropriadas para garantir que os Dados Pessoais em sua posse recebam pelo destinat&aacute;rio o mesmo n&iacute;vel de prote&ccedil;&atilde;o que recebem no Brasil.</p>
+
+                <p><strong>8 TEMPO DE ARMAZENAMENTO DOS DADOS PESSOAIS</strong></p>
+
+                <p>A TMG armazenar&aacute; todos os Dados Pessoais objeto desta Pol&iacute;tica de forma segura e somente pelo per&iacute;odo necess&aacute;rio para o cumprimento das respectivas finalidades e obriga&ccedil;&otilde;es legais, de acordo com sua Pol&iacute;tica de Reten&ccedil;&atilde;o de Documentos, caso o Titular n&atilde;o solicite a elimina&ccedil;&atilde;o de seus Dados Pessoais antes do per&iacute;odo de reten&ccedil;&atilde;o estipulado.</p>
+
+                <p><strong>9 INCIDENTES ENVOLVENDO DADOS PESSOAIS</strong></p>
+
+                <p>Em caso de incidentes envolvendo Dados Pessoais, a TMG compromete-se a tomar todas as medidas necess&aacute;rias para contatar o Titular e a ANPD em prazo razo&aacute;vel, informando a natureza dos Dados Pessoais afetados, as medidas t&eacute;cnicas e de seguran&ccedil;a utilizadas para a prote&ccedil;&atilde;o dos Dados Pessoais, os riscos relacionados ao incidente, bem como as medidas que foram ou que ser&atilde;o adotadas para reverter ou mitigar os efeitos do preju&iacute;zo.</p>
+
+                <p>Al&eacute;m disso, a TMG prestar&aacute; toda a colabora&ccedil;&atilde;o necess&aacute;ria a qualquer potencial investiga&ccedil;&atilde;o que possa vir a ser realizada sobre o assunto.</p>
+
+                <p><strong>10 QUALIDADE E SEGURAN&Ccedil;A DOS DADOS PESSOAIS</strong></p>
+
+                <p>A TMG esfor&ccedil;ar-se-&aacute; para manter os Dados Pessoais, por ela armazenados, atualizados e precisos. Os Titulares poder&atilde;o recorrer &agrave; Encarregada da TMG, cujas informa&ccedil;&otilde;es de contato est&atilde;o indicadas ao final desta Pol&iacute;tica, para informar qualquer altera&ccedil;&atilde;o relevante em seus Dados Pessoais, bem como solicitar a retifica&ccedil;&atilde;o de Dados Pessoais desatualizados ou incorretos, ou ainda requerer a portabilidade ou o descarte dos seus Dados Pessoais.</p>
+
+                <p>Al&eacute;m disso, a TMG tomar&aacute; as medidas t&eacute;cnicas de seguran&ccedil;a, controles de acesso e organizacionais apropriadas para assegurar a seguran&ccedil;a dos Dados Pessoais tratados por ela desde a concep&ccedil;&atilde;o de seus</p>
+
+                <p>produtos e servi&ccedil;os, incluindo a ado&ccedil;&atilde;o de Pol&iacute;ticas sobre o uso de dispositivos eletr&ocirc;nicos e sobre o acesso a seus sistemas, especialmente para prevenir o acesso de terceiros n&atilde;o autorizados ou o vazamento de Dados Pessoais.</p>
+
+                <p><strong>11 ALTERA&Ccedil;&Otilde;ES NA POL&Iacute;TICA DE PRIVACIDADE</strong></p>
+
+                <p>Como o neg&oacute;cio desenvolvido pela TMG est&aacute; em constante aprimoramento, a TMG se reserva o direito de atualizar ou modificar esta Pol&iacute;tica de Privacidade a qualquer tempo. A vers&atilde;o mais atual da Pol&iacute;tica que reger&aacute; o Tratamento de seus Dados Pessoais, estar&aacute; sempre dispon&iacute;vel em nosso site https://www.tmg.agr.br/ptbr/privacidade</p>
+
+                <p><strong>12 ESCLARECIMENTOS ADICIONAIS</strong></p>
+
+                <p>Em atendimento &agrave;s disposi&ccedil;&otilde;es da LGPD, a TMG nomeou uma Encarregada &ndash; Liana Biasi e criou um Comit&ecirc; de Prote&ccedil;&atilde;o de Dados, sendo que a Encarregada &eacute; respons&aacute;vel por intermediar a comunica&ccedil;&atilde;o entre a TMG e os Titulares dos Dados Pessoais e/ou a Autoridade Nacional de Prote&ccedil;&atilde;o de Dados.</p>
+
+                <p>Assim, caso voc&ecirc; tenha qualquer d&uacute;vida sobre como seus Dados Pessoais s&atilde;o utilizados pela TMG ou queira exercer seus direitos mencionados acima, basta entrar em contato com a Encarregada, atrav&eacute;s do e-mail protecaodedados@tmg.agr.br.</p>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Imprint -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">IMPRINT</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h5>Publicado por:</h5>
+                <p></p>
+                <p><strong>Locaweb Serviços de Internet S/A</strong></p>
+                <p>Rua Itapaiuna, 2434 <br />
+                    São Paulo - SP <br /> 
+                    CEP: 05707-001</p>
+                <p>Telefone: 0800 055 5932</p>
+                <p>Site: <a href="https://www.locaweb.com.br" target="_blank">www.locaweb.com.br</a></p>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<footer id="footer" class="d-print-none">
+    <div class="widget-area gradient-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="tm-widget wow fadeIn" data-wow-duration=".5s" data-wow-delay=".3s">
+                        <div class="tm-widget-text">
+                            <h2 class="text-center" style="font-size: 3em">#tmgenetica</h2>
+                            <h2 class="text-center">Além da Produtividade</h2>
+                            <div class="pb-3"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <p class="copyright-text">&copy; 2022 TMG Tropical Melhoramento &amp; Genética S.A.</p>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <div class="copyright-nav">
+                        <ul>
+<!--                            <li><a href="#" target="_blank">Instagram</a></li>
+                            <li><a href="#" target="_blank">Facebook</a></li>
+                            <li><a href="#" target="_blank">LinkedIn</a></li>
+                            <li><a href="#" target="_blank">Youtube</a></li>
+                            <li><a href="#" target="_blank">Flickr</a></li>-->
+                            <li><a href="https://www.tmg.agr.br/ptbr/privacidade">Política de Privacidade</a></li>
+                            <li><a href="javascript:window.Confirmic('ConsentManager:show')">Cookies</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Integrate</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Portais</a></li>
+                            <!-- <li><a href="https://novostalentos.tmg.agr.br" target="_blank">Programa Novos Talentos</a></li> -->
+                            <li><a href="http://www.tmg.agr.br/trabalheconosco" target="_blank">Trabalhe Conosco</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-2.2.0.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.easing.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.mobile.custom.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/vide/jquery.vide.min.js"></script>
+
+    <script src="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/tether/tether.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/popper/popper.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/wow/wow.min.js"></script>
+<script>new WOW().init();</script>
+<script src="https://www.tmg.agr.br/vendor/styles/scripts.js?2596973102"></script>
+
+
+    </body>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-12814928-1', 'auto');
+        ga('send', 'pageview');
+    </script>    
+</html>

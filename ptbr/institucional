@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="application-name" content="">
+    <meta name="description" content="Cultivares de soja e algodão produtivas e dotadas de tecnologia, para que enfrentem os desafios do campo e proporcionem mais segurança ao produtor">
+    <meta name="apple-mobile-web-app-title" content="TMG">
+    <meta name="application-name" content="TMG">
+    <meta name="msapplication-TileColor" content="#246886">
+    <meta name="theme-color" content="#246886"> 
+    
+    <meta property="og:title" content="TMG - Tropical Melhoramento &amp; Genética" />
+    <meta property="og:url" content="https://www.tmg.agr.br/ptbr/institucional" />    
+    <meta property="og:description" content="Cultivares de soja e algodão produtivas e dotadas de tecnologia, para que enfrentem os desafios do campo e proporcionem mais segurança ao produtor" />  
+    <meta property="og:type" content="article" />
+    <meta property="og:locale" content="pt-br" /> 
+    <meta property="og:image" content="" />
+    <meta property="article:author" content="https://www.facebook.com/tmgenetica" />
+    <meta property="article:publisher" content="https://www.facebook.com/tmgenetica" /> 
+    <meta property="fb:app_id" content="383319985016928" />
+    <meta name="facebook-domain-verification" content="3vlls5csfxgmbragzj42oz5boumbfa" />
+    
+    <title>TMG - Tropical Melhoramento &amp; Genética</title>
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.tmg.agr.br/images/icons/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.tmg.agr.br/images/icons/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.tmg.agr.br/images/icons/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://www.tmg.agr.br/images/icons/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://www.tmg.agr.br/images/icons/favicon/safari-pinned-tab.svg" color="#246886">
+
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.css">
+            
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/normalize.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/animate/animate.css">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,800">
+    <link rel="stylesheet" href="https://use.typekit.net/mjw2ffj.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.css" />
+
+            <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/fancybox/dist/jquery.fancybox.min.css">
+        <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/lity/lity.css">
+        
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style.css?648538973">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style2.css?915497360">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/responsive.css?423380117">
+    
+            <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/inst/styles/inst2.css?242975626">
+        <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/timeline/css/timeline.css?518991138">
+                
+    <script src="https://www.tmg.agr.br/vendor/modernizr/modernizr.js"></script>
+    
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '681180552296000'); 
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=681180552296000&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->    
+    
+    <!-- Google ADS -->    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-580154035"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-580154035');
+    </script>
+    <!-- Google ADS -->    
+    
+    <!-- Cookie-Script -->
+    <script src="https://config.confirmic.com/config.js?id=prj:2884a71c-0a76-4f48-ac59-a6f0fe60822d" crossorigin charset="utf-8"></script>
+    <script src="https://consent-manager.confirmic.com/embed.js" crossorigin charset="utf-8"></script>
+
+</head>    <body>
+        <header class="black">
+    <div class="container">
+        <nav id="mainNav" class="navbar navbar-expand-lg navbar-light bg-light">
+            <h1 class="navbar-brand m-0">
+                <a class="logo js-scroll-trigger" href="https://www.tmg.agr.br/" title="TMG"><img src="https://www.tmg.agr.br/images/tmgw.svg" style="width: 100px" alt="TMG"></a>
+            </h1>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" 
+                    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Navegação">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav right-menu light-bg">
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/institucional">Institucional</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuCtv" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Cultivares                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuCtv">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/soja">Soja</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/algodao">Algodão</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuTec" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Tecnologias                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuTec">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/inox">Inox<sup>&reg;</sup></a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/rx">Rx</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/ampla-resistencia-cisto">Ampla Resistência à Cisto</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/produtividade">Produtividade</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/licenciados">Licenciados</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/noticias">Notícias</a>
+                    </li>
+                    <li class="nav-item dropdown m-contato">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuContato" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Contato                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuContato">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/fale-conosco">Fale Conosco</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/equipe">Equipe Comercial</a>
+<!--                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/trabalheconosco">Trabalhe com a gente</a>-->
+                        </div>
+                    </li>
+                    
+                    
+                </ul>
+                <!-- <ul class="right-menu light-bg">
+                    <li class="nav-item">
+                        <select class="language">
+                            <option value="">PT</option>
+                            <option value="">EN</option>
+                            <option value="">ES</option>
+                        </select>
+                    </li>
+                </ul> -->
+            </div>
+        </nav>
+    </div>
+</header>
+<div class="d-none d-print-block mb-5 text-center">
+    <img src="https://www.tmg.agr.br/images/tmgb.png" alt="TMG">
+</div>
+<div class="img-1">
+
+    <div class="container-fluid p-0 m-0">
+        <div class="img-1-back">
+            <div class="img-1-body container">
+                <h2>MUITO ALÉM DA
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    PRODUTIVIDADE</h2>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="text-1 mb-5">
+
+    <div class="container text-center">
+
+        <h1 class="mb-5">Olá, muito prazer, nós somos a TMG!</h1>
+        <p>Entregar cultivares produtivas é o nosso compromisso. Contribuir para o desenvolvimento da agricultura, através de soluções em genética, e potencializar os resultados dos produtores é o nosso propósito.</p>
+
+    </div>
+    
+</div>
+
+    <div class="text-mv mb-5">
+
+        <div class="container">
+            <div class="mv-back">
+
+                <h4>Missão</h4>
+                <p class="mb-4">Desenvolver soluções genéticas para entregar produtividade e rentabilidade aos agricultores, que contribuam para atender a demanda mundial de alimentos e fibra de algodão de forma sustentável.</p>
+
+                <h4>Visão</h4>
+                <p class="mb-4">Ser referência mundial em soluções genéticas inovadoras para agricultura e liderar o mercado brasileiro em genética para soja e algodão.</p>
+
+                <h4>Valores</h4>
+                <div class="row mt-2">
+                    <div class="col">
+                        <p>
+                            <strong>CUIDAR DAS PESSOAS</strong><br />
+                            Estamos comprometidos com a segurança, bem-estar e desenvolvimento dos nossos trabalhadores e comunidade. Promovemos a diversidade a inclusão e o cuidado com o meio ambiente.
+                        </p>
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>AGIR COM INTEGRIDADE</strong><br />
+                            Agimos com integridade inquestionável, com senso de justiça, respeito ao próximo e transparência, buscando um alto nível de profissionalismo.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <p>
+                            <strong>CULTIVAR RELAÇÕES</strong><br />
+                            Construímos relações fortes.<br />
+                            Somos apaixonados pela agricultura. Valorizamos a simplicidade, proximidade e parceria, no dia a dia com nossos clientes e em todas as nossas relações.
+                        </p>
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>FAZER A DIFERENÇA</strong><br />
+                            Estamos comprometidos em realizar entregas consistentes, ágeis e eficientes buscando gerar produtividade e resultados superiores.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <p>
+                            <strong>VIVER COM ATITUDE</strong><br />
+                            Somos corajosos e determinados. Enfrentamos nossos desafios com responsabilidade, disciplina e resiliência.
+                        </p>
+                    </div>
+                    <div class="col">
+                        <p>
+                            <strong>INOVAR SEMPRE</strong><br />
+                            Somos questionadores e inquietos.<br />
+                            Pensamos hoje em soluções para atender as demandas do presente e do futuro.                            
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>    
+
+    </div>
+
+
+<div class="text-11 mb-5">
+
+    <div class="container text-center">
+
+        <h2 class="mb-5">Nossa história</h2>
+        <p>Foi em 2001 que a nossa história começou, aqui mesmo, no Brasil, quando um grupo de pesquisadores e empresários decidiram se unir para transformar a agricultura do país. O objetivo sempre foi desenvolver cultivares de soja e algodão, adaptadas para as mais diferentes condições, que fossem mais produtivas e rentáveis, com tecnologias que auxiliassem no manejo do campo. Desde então, a TMG nunca parou de ir além.</p>
+        <p>Quando o propósito é forte, não é qualquer desafio que o tira do caminho. Devemos confessar, porém, que os desafios foram grandes e continuam sendo, mas as conquistas também valeram a pena.</p>
+        <p>Por acreditar na nossa terra sabíamos do nosso potencial de desenvolver soluções inovadoras e altamente produtivas para serem verdadeiras aliadas do produtor no campo. O resultado de muito trabalho então veio.</p>
+
+    </div>
+
+</div>
+
+
+<div class="tline py-5">
+
+    <div class="container-fluid">
+        
+        <div class="row">
+            <div class="col text-center">
+                <h2>Uma história, muitas conquistas</h2>
+                <h6>Clique nas datas e conheça as principais conquistas da TMG</h6>
+            </div>
+        </div>
+
+        <section class="cd-horizontal-timeline">
+            <div class="timeline">
+                <div class="events-wrapper">
+                    <div class="events">
+                        <ol>
+                            <!--                                <li><a href="#0" data-date="31/12/2001" class="selected">2001</a></li>-->
+                                                            <li><a href="#0" data-date="01/01/2001" class="selected">2001</a></li>
+                                                                <li><a href="#0" data-date="01/01/2004" >2004</a></li>
+                                                                <li><a href="#0" data-date="01/01/2005" >2005</a></li>
+                                                                <li><a href="#0" data-date="01/01/2006" >2006</a></li>
+                                                                <li><a href="#0" data-date="01/01/2007" >2007</a></li>
+                                                                <li><a href="#0" data-date="01/01/2008" >2008</a></li>
+                                                                <li><a href="#0" data-date="01/01/2010" >2010</a></li>
+                                                                <li><a href="#0" data-date="01/01/2011" >2011</a></li>
+                                                                <li><a href="#0" data-date="01/01/2012" >2012</a></li>
+                                                                <li><a href="#0" data-date="01/01/2013" >2013</a></li>
+                                                                <li><a href="#0" data-date="01/01/2014" >2014</a></li>
+                                                                <li><a href="#0" data-date="01/01/2015" >2015</a></li>
+                                                                <li><a href="#0" data-date="01/01/2016" >2016</a></li>
+                                                                <li><a href="#0" data-date="01/01/2017" >2017</a></li>
+                                                                <li><a href="#0" data-date="01/01/2018" >2018</a></li>
+                                                                <li><a href="#0" data-date="01/01/2019" >2019</a></li>
+                                                        </ol>
+                        <span class="filling-line" aria-hidden="true"></span>
+                    </div> 
+                </div>
+                <ul class="cd-timeline-navigation">
+                    <li><a href="#0" class="prev inactive"><i class="fas fa-angle-right"></i></a></li>
+                    <li><a href="#0" class="next"><i class="fas fa-angle-right"></i></a></li>
+                </ul> 
+            </div>
+
+            <div class="events-content">
+                <ol>
+                                            <li data-date="01/01/2001" class="selected">
+                            <h2>2001</h2>
+                            <p>&bullet; Iniciamos nossas atividades simultaneamente no Sul e no cerrado brasileiro, a partir da união de esforços de pesquisadores e empresários.</p>
+                        </li>
+                                                <li data-date="01/01/2004" >
+                            <h2>2004</h2>
+                            <p>&bullet; Lançamento de cultivares TMG RR no cerrado.</p>
+                        </li>
+                                                <li data-date="01/01/2005" >
+                            <h2>2005</h2>
+                            <p>&bullet; Entram no mercado cultivares de soja TMG RR.</p>
+                        </li>
+                                                <li data-date="01/01/2006" >
+                            <h2>2006</h2>
+                            <p>&bullet; Lançamento de cultivares de soja TMG RR com resistência a nematoide de cisto;<br /><br />
+                          &bullet; Inauguração do Laboratório de Biotecnologia, em Cambé-PR.</p>
+                        </li>
+                                                <li data-date="01/01/2007" >
+                            <h2>2007</h2>
+                            <p>&bullet; Lançamento de cultivares TMG para o Sul do Brasil.</p>
+                        </li>
+                                                <li data-date="01/01/2008" >
+                            <h2>2008</h2>
+                            <p>&bullet; Lançada cultivar superprecoce, resistente a cisto e com tolerância à chuva na colheita;<br/><br/>
+                          &bullet; Lançamento da Tecnologia Inox®, com variedades adaptadas para as regiões do cerrado e Sul. A tecnologia Inox® é um exemplo consagrado da TMG, uma tecnologia inovadora e pioneira no mundo. Seu grande diferencial está na presença do gene de resistência à ferrugem nas cultivares, isso faz com que a planta tenha maiores condições de conviver com a doença no campo.</p>
+                        </li>
+                                                <li data-date="01/01/2010" >
+                            <h2>2010</h2>
+                            <p>&bullet; Início da atuação no Paraguai, Bolívia e Uruguai;<br /><br />
+                          &bullet; Inauguração da Estação Experimental Ponte de Pedra, em Rondonópolis-MT.</p>
+                        </li>
+                                                <li data-date="01/01/2011" >
+                            <h2>2011</h2>
+                            <p>&bullet; TMG se torna líder de mercado na cultura da soja em Mato Grosso;<br /><br />
+                          &bullet; Lançamento de cultivares RR com Tecnologia Inox® para o cerrado.</p>
+                        </li>
+                                                <li data-date="01/01/2012" >
+                            <h2>2012</h2>
+                            <p>&bullet; TMG se torna líder de mercado na cultura da soja no cerrado;<br /><br />
+&bullet; Cultivar de soja TMG 132RR, resistente a nematoide de cisto, se torna a mais plantada em Mato Grosso;<br /><br />
+&bullet; Lançamento de cultivares de soja convencionais TMG com Ampla Resistência a Cisto (9 raças), uma grande contribuição para a cultura;<br /><br />
+&bullet; Lançamento de cultivares RR com Tecnologia Inox® para o Sul</p>
+                        </li>
+                                                <li data-date="01/01/2013" >
+                            <h2>2013</h2>
+                            <p>&bullet; Lançamento de cultivares TMG com a Tecnologia Intacta RR2 PRO™.;<br /><br />
+&bullet; Início da utilização de seleção assistida por marcadores moleculares em larga escala;<br /><br />
+&bullet; Inauguração da Estação Experimental de Pesquisa Bela Vista do Paraíso, em Rondonópolis-MT;<br /><br />
+&bullet; Lançamento de cultivares de algodão TMG com WS (WideStrike®);<br /><br />
+&bullet; Lançamento da Tecnologia TN - Tolerância a Nematoides, que permite alcançar bons níveis de produtividade mesmo em áreas com a presença de nematoides das galhas e reniformis;<br /><br />
+&bullet; Início do Programa de Melhoramento de Milho.</p>
+                        </li>
+                                                <li data-date="01/01/2014" >
+                            <h2>2014</h2>
+                            <p>&bullet; Conquista, nos EUA, patente do método de seleção para o gene Rpp5, responsável pela resistência à Ferrugem asiática. <a target='_blank' href='https://www.tmg.agr.br/ptbr/noticia/eua-reconhece-patente-da-tmg-que-traz-beneficios-ambientais-e-economicos'>Veja mais</a>;<br /><br />
+&bullet; Lançamento de cultivares TMG Intacta RR2 PRO™ + Inox®.;<br /><br />
+&bullet; Lançamento de cultivares de algodão TMG com B2RF (BOLLGARD II RR Flex™)</p>
+                        </li>
+                                                <li data-date="01/01/2015" >
+                            <h2>2015</h2>
+                            <p>&bullet; Portfólio abrangente com 28 cultivares de soja e nove de algodão;<br /><br />
+                          &bullet; Inauguração da Estação Experimental de Passo Fundo-RS.</p>
+                        </li>
+                                                <li data-date="01/01/2016" >
+                            <h2>2016</h2>
+                            <p>&bullet; Lançamento de cultivar de algodão B2RF, de alta qualidade de fibra e com Tecnologia RX, de tolerância à Ramulária, desenvolvida pela TMG;<br /><br />
+                          &bullet; Inauguração das Estações Experimentais de Sorriso (MT), Costa Rica (MS) e Gabriela, em Rondonópolis-MT.</p>
+                        </li>
+                                                <li data-date="01/01/2017" >
+                            <h2>2017</h2>
+                            <p>&bullet; Algodão TMG rompe a barreira de produtividade com resultado de 500 @/ha, com a cultivar TMG 81WS, em Riachão das Neves-BA.</p>
+                        </li>
+                                                <li data-date="01/01/2018" >
+                            <h2>2018</h2>
+                            <p>&bullet; Lançamento de cultivar TMG com tecnologia Intacta RR2 PRO™ e com Ampla Resistência a Cisto para o cerrado;<br /><br />
+                          &bullet; Inicia o processo de aprovação comercial no Brasil para cultivo de soja com Tecnologia HB4®, tolerante à estresses abióticos, principalmente a seca, parceria com as empresas Verdeca LLC e Bioceres;<br /><br />
+                          &bullet; Inauguração da Estação Experimental de Pesquisa em Rio Verde-GO e em Sapezal-MT;</p>
+                        </li>
+                                                <li data-date="01/01/2019" >
+                            <h2>2019</h2>
+                            <p>&bullet; Anuncia parceria com a empresa israelense Evogene Ltda para o desenvolvimento de soja tolerante a nematoides que afetam a soja, com utilização de tecnologias de edição gênica;<br /><br /> 
+                          &bullet; Conquista no Brasil a patente do método de identificação e seleção de plantas de soja contendo o gene de resistência Rpp5, através do uso de marcadores moleculares.</p>
+                        </li>
+                                            
+                </ol>
+            </div>
+        </section>
+
+    </div>
+
+</div>
+
+
+<div class="text-2 mb-5">
+
+    <div class="container text-center">
+
+        <h2 class="mb-5">Desenvolvimento</h2>
+        <p>Ao longo da nossa história desenvolvemos tecnologias de forma pioneira, incorporando às nossas cultivares características fundamentais para o produtor enfrentar os maiores desafios no campo como resistência à ferrugem asiática, ampla resistência a cisto para a soja e tolerância a ramulária para o algodão. São inovações que revolucionaram a agricultura brasileira.</p>
+        <p>O melhoramento genético da TMG contribuiu para tornar estável o cultivo da soja no cerrado brasileiro, pois lançou as primeiras cultivares com tecnologias e características que ajudaram a viabilizar o aumento da produtividade no campo.</p>
+        <p>Como somos uma empresa genuinamente brasileira entendemos da nossa terra como ninguém, sabemos que cada região do nosso país tem particularidades e é levando isso em conta que nossas soluções têm foco regional, para que em cada local as plantas expressem todo o seu potencial.</p>
+
+    </div>
+
+</div>
+
+<div class="video-1 container-fluid jquery-background-video-wrapper" style="height: 600px">
+    <video class="inst-background-video jquery-background-video" loop autoplay muted poster="https://www.tmg.agr.br/images/blog/1550695776450245.jpg">
+        <source src="https://www.tmg.agr.br/vendor/styles/inst/video/SX4A0128.MOV" type="video/mp4">
+    </video>
+    <div class="jquery-background-video-body">
+        <h2>Tecnologias</h2>
+    </div>
+</div>
+
+<div class="text-3 my-5">
+
+    <div class="container text-center">
+
+        <p>Acreditamos que um dos fatores responsáveis por contribuir com a rentabilidade do produtor é o desenvolvimento de novas soluções tecnológicas. É desenvolvendo tecnologias aliadas às melhores práticas de manejo que queremos aumentar cada vez mais o potencial produtivo de forma sustentável. Trabalhamos para antecipar os problemas e entregar soluções na hora que o produtor precisa.</p>
+        <p>Preparamos páginas especiais onde a gente conta tudo sobre nossas principais tecnologias, seus diferenciais e como elas contribuem para melhorar a produtividade e aumentar a rentabilidade.</p>
+
+    </div>
+
+</div>
+
+<div class="text-4 my-5 py-5 gradient-purple">
+
+    <div class="container">
+
+        <div class="row">
+            
+            <div class="col-12 col-sm-3 offset-sm-2">
+                <div>
+                    <div class="tecnologias-box-item wow fadeIn" data-wow-duration=".5s" data-wow-delay=".3s">
+                        <div class="feature-so-i
+                             con">
+                            <img src="https://www.tmg.agr.br/images/icons/inox2.png" alt="Tecnologia Inox&reg;" />
+                        </div>
+                        <div>
+                            <p>Conheça agora mesmo a melhor alternativa para você enfretar a Ferrugem e ter excelentes resultados no campo.</p>
+                            <a href="https://www.tmg.agr.br/ptbr/tecnologias/inox" class="see-more">Saiba mais <i class="fas fa-arrow-circle-right"></i></a> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-3">
+                <div>
+                    <div class="tecnologias-box-item wow fadeIn" data-wow-duration=".5s" data-wow-delay=".3s">
+                        <div class="feature-so-icon">
+                            <img src="https://www.tmg.agr.br/images/icons/amplacisto2.png" alt="Ampla Resistência à Cisto" />
+                        </div>
+                        <div>
+                            <p>Potencialize a produtividade da sua lavoura</p>
+                            <a href="https://www.tmg.agr.br/ptbr/tecnologias/ampla-resistencia-cisto" class="see-more">Saiba mais <i class="fas fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-3">
+                <div>
+                    <div class="tecnologias-box-item wow fadeIn" data-wow-duration=".5s" data-wow-delay=".3s">
+                        <div class="feature-so-icon">
+                            <img src="https://www.tmg.agr.br/images/icons/rx2.png" alt="RX" />
+                        </div>
+                        <div>
+                            <p>A principal estratégia de controle da Ramulária é o uso de cultivares tolerantes à doença.</p>
+                            <a href="https://www.tmg.agr.br/ptbr/tecnologias/rx" class="see-more">Saiba mais <i class="fas fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>            
+
+    </div>
+
+</div>
+
+<div class="text-5 my-5">
+
+    <div class="container text-center mb-5">
+
+        <div class="row title mb-3">
+            <span class="title-mark"></span>
+            <span class="title-name">Algodão</span>
+        </div>
+        <div class="row">
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/nematoide.png" style="height: 50px" />
+            </div>
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/ramularia.png" style="height: 50px" />
+            </div>
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/regulador_baixa.png" style="height: 50px" />
+            </div>
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/regulador_media.png" style="height: 50px" />
+            </div>
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/regulador_alta.png" style="height: 50px" />
+            </div>
+        </div>
+
+    </div>
+
+    <div class="container text-center">
+
+        <div class="row title mb-3">
+            <span class="title-mark"></span>
+            <span class="title-name">Soja</span>
+        </div>
+        <div class="row mb-4">
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/inox.png" style="height: 50px" />
+            </div>
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/cisto_ampla.png" style="height: 50px" />
+            </div>
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/cisto.png" style="height: 50px" />
+            </div>
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/chuva.png" style="height: 50px" />
+            </div>
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/solo_encharcado.png" style="height: 50px" />
+            </div>
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/refugio.png" style="height: 50px" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/pratylenchus.png" style="height: 50px" />
+            </div>
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/convencional.png" style="height: 50px" />
+            </div>
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/galha.png" style="height: 50px" />
+            </div>
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/galha_javanica.png" style="height: 50px" />
+            </div>
+            <div class="col">
+                <img src="https://www.tmg.agr.br/images/stamps/icons/galha_incognita.png" style="height: 50px" />
+            </div>
+        </div>        
+    </div>    
+
+</div>
+
+<div class="text-6 my-5 pt-5">
+
+    <div class="container text-center">
+        <h2 class="mb-5">Parcerias</h2>
+        <p>A multiplicação de nossas sementes pelo Brasil afora é feita por licenciados, primordiais para que nossos produtos estejam no campo.  Nossas parcerias estratégicas comerciais estão concentradas em toda a América do Sul: Uruguai, Paraguai, Argentina e Bolívia.</p>
+        
+        <div class="d-flex justify-content-center">
+            <div class="col-4">
+                <img src="https://www.tmg.agr.br/vendor/styles/inst/images/mp.jpg?1" class="mr-auto" />
+            </div>            
+        </div>
+        <div class="row">
+            <div class="col">
+                <img src="https://www.tmg.agr.br/vendor/styles/inst/images/par.jpg?3" class="mr-auto"  />
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="text-7 mb-5">
+
+    <div class="container text-center">
+        <h2 class="mb-5">Presença</h2>
+        <p>Nossa sede está localizada em Cambé-PR, onde temos infraestrutura completa, casas de vegetação e um moderno laboratório de biotecnologia. Também estamos em Rondonópolis, Campo Verde e Sorriso, no Mato Grosso, em Rio Verde-GO e Passo Fundo-RS, com amplas estações de pesquisa, com centenas de hectares para o desenvolvimento dos programas de melhoramento. Para testes a campo, temos uma rede de ensaios presente em todas as regiões produtivas do Brasil. Estamos sempre em expansão, buscando inovações no melhoramento e, consequentemente, presença.</p>
+        <div class="row">
+            <div class="col-12 col-md-8 offset-md-2">
+                <img src="https://www.tmg.agr.br/vendor/styles/inst/images/mpbr.jpg" />
+            </div>
+        </div>
+    </div>
+
+</div><footer id="footer" class="d-print-none">
+    <div class="widget-area gradient-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="tm-widget wow fadeIn" data-wow-duration=".5s" data-wow-delay=".3s">
+                        <div class="tm-widget-text">
+                            <h2 class="text-center" style="font-size: 3em">#tmgenetica</h2>
+                            <h2 class="text-center">Além da Produtividade</h2>
+                            <div class="pb-3"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <p class="copyright-text">&copy; 2022 TMG Tropical Melhoramento &amp; Genética S.A.</p>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <div class="copyright-nav">
+                        <ul>
+<!--                            <li><a href="#" target="_blank">Instagram</a></li>
+                            <li><a href="#" target="_blank">Facebook</a></li>
+                            <li><a href="#" target="_blank">LinkedIn</a></li>
+                            <li><a href="#" target="_blank">Youtube</a></li>
+                            <li><a href="#" target="_blank">Flickr</a></li>-->
+                            <li><a href="https://www.tmg.agr.br/ptbr/privacidade">Política de Privacidade</a></li>
+                            <li><a href="javascript:window.Confirmic('ConsentManager:show')">Cookies</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Integrate</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Portais</a></li>
+                            <!-- <li><a href="https://novostalentos.tmg.agr.br" target="_blank">Programa Novos Talentos</a></li> -->
+                            <li><a href="http://www.tmg.agr.br/trabalheconosco" target="_blank">Trabalhe Conosco</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-2.2.0.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.easing.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.mobile.custom.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/vide/jquery.vide.min.js"></script>
+
+        <script src="https://www.tmg.agr.br/vendor/lity/lity.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/parallax/parallax.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/isotope/isotope.pkgd.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/isotope/portfolio.js"></script>
+        <script src="https://www.tmg.agr.br/vendor/timeline/timeline.js?1"></script>
+    <script src="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/tether/tether.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/popper/popper.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/wow/wow.min.js"></script>
+<script>new WOW().init();</script>
+<script src="https://www.tmg.agr.br/vendor/styles/scripts.js?8239927175"></script>
+
+
+    </body>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-12814928-1', 'auto');
+        ga('send', 'pageview');
+    </script>    
+</html>

@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="application-name" content="">
+    <meta name="description" content="Os Estados Unidos oficializaram, no &uacute;ltimo m&ecirc;s, a patente do m&eacute;todo de sele&ccedil;&atilde;o para o gene Rpp5, que confere resist&ecirc;ncia &agrave; Ferrugem asi&aacute;tica da soja. O m&eacute;todo, desenvolvido pela Tropical Melhoramento &amp; Gen&eacute;tica (TMG), facilita o desenvolvimento de variedades do gr&atilde;o resistentes &agrave; doen&ccedil;a, que atualmente &eacute; um dos principais problemas da sojicultora brasileira. A descoberta do gene foi publicada em 2008 na revista cient&iacute;fica Theoretical na Applied Genetics. A partir da&iacute;, o mercado passou a oferecer cultivares com a Tecnologia Inox&reg;, que confere &agrave;s lavouras benef&iacute;cios ambientais e econ&ocirc;micos, pois permite reduzir a aplica&ccedil;&atilde;o de fungicidas e, consequentemente, proporciona menores danos ao meio ambiente e maior economia nos custos de produ&ccedil;&atilde;o.">
+    <meta name="apple-mobile-web-app-title" content="TMG">
+    <meta name="application-name" content="TMG">
+    <meta name="msapplication-TileColor" content="#246886">
+    <meta name="theme-color" content="#246886"> 
+    
+    <meta property="og:title" content="EUA reconhece patente da TMG que traz benefícios ambientais e econômicos" />
+    <meta property="og:url" content="https://www.tmg.agr.br/ptbr/noticia/eua-reconhece-patente-da-tmg-que-traz-beneficios-ambientais-e-economicos" />    
+    <meta property="og:description" content="Os Estados Unidos oficializaram, no &uacute;ltimo m&ecirc;s, a patente do m&eacute;todo de sele&ccedil;&atilde;o para o gene Rpp5, que confere resist&ecirc;ncia &agrave; Ferrugem asi&aacute;tica da soja. O m&eacute;todo, desenvolvido pela Tropical Melhoramento &amp; Gen&eacute;tica (TMG), facilita o desenvolvimento de variedades do gr&atilde;o resistentes &agrave; doen&ccedil;a, que atualmente &eacute; um dos principais problemas da sojicultora brasileira. A descoberta do gene foi publicada em 2008 na revista cient&iacute;fica Theoretical na Applied Genetics. A partir da&iacute;, o mercado passou a oferecer cultivares com a Tecnologia Inox&reg;, que confere &agrave;s lavouras benef&iacute;cios ambientais e econ&ocirc;micos, pois permite reduzir a aplica&ccedil;&atilde;o de fungicidas e, consequentemente, proporciona menores danos ao meio ambiente e maior economia nos custos de produ&ccedil;&atilde;o." />  
+    <meta property="og:type" content="article" />
+    <meta property="og:locale" content="pt-br" /> 
+    <meta property="og:image" content="https://www.tmg.agr.br/images/blog/1416314161189743.jpg" />
+    <meta property="article:author" content="https://www.facebook.com/tmgenetica" />
+    <meta property="article:publisher" content="https://www.facebook.com/tmgenetica" /> 
+    <meta property="fb:app_id" content="383319985016928" />
+    <meta name="facebook-domain-verification" content="3vlls5csfxgmbragzj42oz5boumbfa" />
+    
+    <title>EUA reconhece patente da TMG que traz benefícios ambientais e econômicos</title>
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.tmg.agr.br/images/icons/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.tmg.agr.br/images/icons/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.tmg.agr.br/images/icons/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://www.tmg.agr.br/images/icons/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://www.tmg.agr.br/images/icons/favicon/safari-pinned-tab.svg" color="#246886">
+
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.css">
+            
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/normalize.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/animate/animate.css">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,800">
+    <link rel="stylesheet" href="https://use.typekit.net/mjw2ffj.css">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.css" />
+
+            <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/fancybox/dist/jquery.fancybox.min.css">
+        <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/lity/lity.css">
+        
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style.css?589769386">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/style2.css?239232024">
+    <link rel="stylesheet" href="https://www.tmg.agr.br/vendor/styles/responsive.css?106717484">
+    
+            
+    <script src="https://www.tmg.agr.br/vendor/modernizr/modernizr.js"></script>
+    
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '681180552296000'); 
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=681180552296000&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->    
+    
+    <!-- Google ADS -->    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-580154035"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-580154035');
+    </script>
+    <!-- Google ADS -->    
+    
+    <!-- Cookie-Script -->
+    <script src="https://config.confirmic.com/config.js?id=prj:2884a71c-0a76-4f48-ac59-a6f0fe60822d" crossorigin charset="utf-8"></script>
+    <script src="https://consent-manager.confirmic.com/embed.js" crossorigin charset="utf-8"></script>
+
+</head>    <body>
+        <header class="black">
+    <div class="container">
+        <nav id="mainNav" class="navbar navbar-expand-lg navbar-light bg-light">
+            <h1 class="navbar-brand m-0">
+                <a class="logo js-scroll-trigger" href="https://www.tmg.agr.br/" title="TMG"><img src="https://www.tmg.agr.br/images/tmgw.svg" style="width: 100px" alt="TMG"></a>
+            </h1>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" 
+                    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Navegação">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav right-menu light-bg">
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/institucional">Institucional</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuCtv" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Cultivares                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuCtv">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/soja">Soja</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/cultivares/algodao">Algodão</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuTec" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Tecnologias                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuTec">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/inox">Inox<sup>&reg;</sup></a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/rx">Rx</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/tecnologias/ampla-resistencia-cisto">Ampla Resistência à Cisto</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/produtividade">Produtividade</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.tmg.agr.br/ptbr/licenciados">Licenciados</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="https://www.tmg.agr.br/ptbr/noticias">Notícias</a>
+                    </li>
+                    <li class="nav-item dropdown m-contato">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuContato" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Contato                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuContato">
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/fale-conosco">Fale Conosco</a>
+                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/equipe">Equipe Comercial</a>
+<!--                            <a class="dropdown-item" href="https://www.tmg.agr.br/ptbr/trabalheconosco">Trabalhe com a gente</a>-->
+                        </div>
+                    </li>
+                    
+                    
+                </ul>
+                <!-- <ul class="right-menu light-bg">
+                    <li class="nav-item">
+                        <select class="language">
+                            <option value="">PT</option>
+                            <option value="">EN</option>
+                            <option value="">ES</option>
+                        </select>
+                    </li>
+                </ul> -->
+            </div>
+        </nav>
+    </div>
+</header>
+<div class="d-none d-print-block mb-5 text-center">
+    <img src="https://www.tmg.agr.br/images/tmgb.png" alt="TMG">
+</div>
+        <section id="blog">
+            
+            <div class="container-fluid page-header" style="background-image: url('https://www.tmg.agr.br/images/crops/soy/large/3.jpg');">
+                <div class="row justify-content-center">
+                    <div class="col-8">
+                        <div class="pt-title title-center text-white" style="padding-bottom: 20px">
+                            <h1>Notícias</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>            
+            
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 pb-5">
+                        <div class="post no-margin">
+                                                                <figure class="blog-feature-image-txt" style="background-image: url('https://www.tmg.agr.br/images/blog/1416314161189743.jpg');">
+                                        <img src="https://www.tmg.agr.br/images/blog/1416314161189743.jpg" style="display:none" />
+                                        <!--<figcaption></figcaption>-->
+                                    </figure>
+                                                                <div class="post-content">
+                                <h1 class="blog-title">EUA reconhece patente da TMG que traz benefícios ambientais e econômicos</h1>
+                                <small>Publicado em: 08/10/2014</small>
+                                <ul class="social-share">
+                                    <li class="whatsapp"><a href="http://wppredirect.tk/go/?p=&m=http://www.tmg.agr.br/ptbr/noticia/eua-reconhece-patente-da-tmg-que-traz-beneficios-ambientais-e-economicos" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                                    <li class="facebook"><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.tmg.agr.br%2Fptbr%2Fnoticia%2Feua-reconhece-patente-da-tmg-que-traz-beneficios-ambientais-e-economicos" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li class="telegram"><a href="https://telegram.me/share/url?url=http%3A%2F%2Fwww.tmg.agr.br%2Fptbr%2Fnoticia%2Feua-reconhece-patente-da-tmg-que-traz-beneficios-ambientais-e-economicos&text=EUA+reconhece+patente+da+TMG+que+traz+benef%C3%ADcios+ambientais+e+econ%C3%B4micos" target="_blank"><i class="fab fa-telegram-plane"></i></a></li>
+                                    <li class="linkedin"><a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.tmg.agr.br%2Fptbr%2Fnoticia%2Feua-reconhece-patente-da-tmg-que-traz-beneficios-ambientais-e-economicos" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li class="twitter"><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.tmg.agr.br%2Fptbr%2Fb%2F5c7fd94f5e729&text=EUA+reconhece+patente+da+TMG+que+traz+benef%C3%ADcios+ambientais+e+econ%C3%B4micos" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                </ul>
+                                <p>Os Estados Unidos oficializaram, no &uacute;ltimo m&ecirc;s, a patente do m&eacute;todo de sele&ccedil;&atilde;o para o gene Rpp5, que confere resist&ecirc;ncia &agrave; Ferrugem asi&aacute;tica da soja. O m&eacute;todo, desenvolvido pela Tropical Melhoramento &amp; Gen&eacute;tica (TMG), facilita o desenvolvimento de variedades do gr&atilde;o resistentes &agrave; doen&ccedil;a, que atualmente &eacute; um dos principais problemas da sojicultora brasileira. A descoberta do gene foi publicada em 2008 na revista cient&iacute;fica Theoretical na Applied Genetics. A partir da&iacute;, o mercado passou a oferecer cultivares com a Tecnologia Inox&reg;, que confere &agrave;s lavouras benef&iacute;cios ambientais e econ&ocirc;micos, pois permite reduzir a aplica&ccedil;&atilde;o de fungicidas e, consequentemente, proporciona menores danos ao meio ambiente e maior economia nos custos de produ&ccedil;&atilde;o.</p>
+
+<p>Especialistas afirmam que a Ferrugem asi&aacute;tica, causada pelo fungo <em>Phakopsora pachyrhizi</em>, &eacute; respons&aacute;vel por perdas de at&eacute; 80% de produtividade nas lavouras da cultura. O n&uacute;mero &eacute; agravado tamb&eacute;m pelo segundo cultivo de soja sobre a soja de ver&atilde;o, que sofre incid&ecirc;ncia do problema de forma muito maior que no plantio na &eacute;poca recomendada.</p>
+
+<p>Fabiano Siqueri, pesquisador da cultura, explica que o gene de resist&ecirc;ncia &agrave; ferrugem presente nas cultivares Inox permite &agrave; planta maiores condi&ccedil;&otilde;es de conviver com a doen&ccedil;a no campo. &ldquo;Caso o controle cultural e qu&iacute;mico escapem das m&atilde;os, a planta Inox estar&aacute; protegida pelo gene. E &eacute; exatamente esta prote&ccedil;&atilde;o extra que proporciona maior tranquilidade e seguran&ccedil;a ao produtor, ganho de produtividade, redu&ccedil;&atilde;o de custos, garantia de produ&ccedil;&atilde;o e facilidade no manejo de fatores restritivos &agrave; lavoura&rdquo;, coloca.</p>
+
+<p>Na estimativa de custos de produ&ccedil;&atilde;o para a safra 2014/15 em Mato Grosso, elaborada pelo Instituto Mato Grossense de Economia Agropecu&aacute;ria (IMEA), a despesa m&eacute;dia com fungicida, sem considerar a opera&ccedil;&atilde;o de m&aacute;quinas e m&atilde;o de obra, &eacute; de R$ 153,43 por hectare, para quatro aplica&ccedil;&otilde;es, o equivalente a 24% do valor gasto com defensivos. Caso a lavoura seja de cultivares com o gene de resist&ecirc;ncia &agrave; ferrugem, o agricultor poder&aacute; reduzir ao menos uma aplica&ccedil;&atilde;o e ter&aacute; R$ 38,35 de economia com o produto. Numa &aacute;rea de 800 ha de soja por exemplo, a redu&ccedil;&atilde;o &eacute; de quase R$ 31.000,00.</p>
+
+<p>Para Jos&eacute; Tadashi Yorinori, fitopatologista e pesquisador da cultura h&aacute; mais de 40 anos, a patente do m&eacute;todo demonstra o quanto a efici&ecirc;ncia gen&eacute;tica &eacute; a maneira mais eficaz de controle da ferrugem. &ldquo;A empresa est&aacute; de parab&eacute;ns e a patente com foco em gen&eacute;tica traz um novo conceito da pesquisa brasileira perante o mundo&rdquo;, destaca. Tadashi lembra, no entanto, que o agricultor precisa considerar melhor as orienta&ccedil;&otilde;es de manejo e plantio para que haja maior efetividade no controle das doen&ccedil;as. &ldquo;O grande fator &eacute; ambiental, pois h&aacute; um grande exagero na aplica&ccedil;&atilde;o de defensivos. Os produtores precisam deixar de fazer a soja safrinha e considerar o plantio do milho que tem seu lado positivo, porque al&eacute;m de colocar em risco os genes existentes, h&aacute; risco tamb&eacute;m de colocar em perigo a defesa natural das plantas pelo excesso de defensivos&rdquo;, frisa.</p>
+
+<p><strong>O m&eacute;todo</strong> - O m&eacute;todo patenteado utiliza do mapeamento gen&eacute;tico para saber a sequ&ecirc;ncia do DNA da planta associada ao gene de resist&ecirc;ncia. Conforme Alexandre Garcia, gestor de Pesquisa da TMG, o processo &eacute; chamado de sele&ccedil;&atilde;o assistida por marcadores moleculares. &ldquo;O trabalho de descoberta &eacute; dif&iacute;cil, demorado, exige muito esfor&ccedil;o e tecnologia&rdquo;, explica.</p>
+
+<p>O pedido da patente foi solicitado em 2007 e s&oacute; agora foi concedido pelo escrit&oacute;rio de patentes norte-americano USPTO - United States Patent and Trademark Office. A empresa, que tem produtos lan&ccedil;ados com a Tecnologia Inox para o cerrado brasileiro desde 2008 e para o Sul do Pa&iacute;s desde 2011, aguarda a concess&atilde;o de mais patentes em outros pa&iacute;ses.</p>
+
+<p>Francisco Soares, presidente da TMG, pontua que esta &eacute; uma boa conquista para a agricultura brasileira e para a empresa, pois gera est&iacute;mulos para que toda a cadeia de pesquisa em melhoramento gen&eacute;tico da soja continue trabalhando com ainda mais vontade de encontrar solu&ccedil;&otilde;es. &ldquo;A equipe desenvolveu um trabalho consistente e de alto n&iacute;vel e isso mostra que a TMG est&aacute; bem posicionada dentro de sua &aacute;rea de atua&ccedil;&atilde;o. Conhecemos a realidade da sojicultora brasileira e estamos focados em resolver os problemas regionais, inclusive j&aacute; aliamos a tecnologia Inox com outra tecnologia importante para o mercado que &eacute; a Intacta. O que nos anima tamb&eacute;m &eacute; que a patente nos EUA &eacute; muito valorizada, isso abre novas portas para criar e ampliar parcerias com empresas de alto potencial na agricultura&rdquo;, coloca.</p>
+
+<p><strong>Tecnologia e cuidados</strong> - Quando o manejo correto da lavoura &eacute; realizado e as cultivares que apresentam diferenciais tecnol&oacute;gicos s&atilde;o escolhidas, os resultados podem ser melhores a cada safra. H&aacute; exemplos em v&aacute;rias regi&otilde;es do Brasil. Um deles vem do munic&iacute;pio de Maril&acirc;ndia do Sul, no Paran&aacute;. O produtor Henrique Kaneko relata que utilizou a cultivar TMG 7262 RR Inox, com resist&ecirc;ncia &agrave; ferrugem, pela primeira vez na safra 2012/13 e ficou satisfeito com o resultado. &ldquo;A planta teve bom engalhamento e teto produtivo muito bom, apesar das condi&ccedil;&otilde;es clim&aacute;ticas com a presen&ccedil;a do veranico no final da safra&rdquo;, explica.</p>
+
+<p>A mesma opini&atilde;o teve o produtor Gabriel Zanatta, de Brasnorte, Mato Grosso, que utilizou a TMG 7188 RR Inox. &ldquo;O material se adapta bem aos solos de m&eacute;dia a baixa textura e com baixa fertilidade, vem mantendo &oacute;timo potencial produtivo e boa toler&acirc;ncia &agrave; ferrugem asi&aacute;tica. Para mim &eacute; a melhor cultivar para encerramento de plantio por sua estabilidade produtiva&rdquo;.</p>
+
+<p>O produtor Mauro C&eacute;sar Stertz tamb&eacute;m encontrou resultados com uma cultivar resistente e foi classificado no Desafio de M&aacute;xima Produtividade de Soja do Comit&ecirc; Estrat&eacute;gico Soja Brasil (CESB) por ter colhido 96,18 sc/ha na safra 2013/14 em sua propriedade no Rio Grande do Sul. O sojicultor utilizou a TMG 7262 RR Inox, fez corre&ccedil;&atilde;o da &aacute;rea, rota&ccedil;&atilde;o de cultura, tratamento de sementes e uso de defensivos adequados.</p>                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+<!--                        <h2 class="background-text-blue">Categorias:</h2>
+                        <ul class="blog-category">
+                            <li>Soja</li>
+                            <li>Algodão</li>
+                            <li>Ferrugem</li>
+                            <li>Nematoide</li>
+                            <li>Ramulária</li>
+                            <li>Novidades</li>
+                        </ul>-->
+                        <h2 class="background-text-blue" style="font-size: 1.5em">Últimas Postagens:</h2>
+                        <div class="blog-another">
+                                                                    <a href="https://www.tmg.agr.br/ptbr/noticia/tmg---sou--de-algodao">TMG - Sou  de Algodão</a>
+                                                                                <a href="https://www.tmg.agr.br/ptbr/noticia/tmg-e-plantarcbio-formam-parceria-global-para-controle-do-bicudo-do-algodao">TMG e PlantArcBio formam parceria global para controle do bicudo do algodão</a>
+                                                                                <a href="https://www.tmg.agr.br/ptbr/noticia/cultivar-de-soja-apresenta-rusticidade-que-da-seguranca-ao-produtor">Cultivar de soja apresenta rusticidade que dá segurança ao produtor</a>
+                                                                                <a href="https://www.tmg.agr.br/ptbr/noticia/cultivar-com-ampla-resistencia-a-cisto-muda-a-realidade-de-agricultores-em-querencia">Cultivar com ampla resistência a cisto muda a realidade de agricultores em Querência</a>
+                                                                                <a href="https://www.tmg.agr.br/ptbr/noticia/safra-de-soja-2020-21-impoe-desafios-climaticos-do-plantio-a-colheita">Safra de soja 2020/21 impõe desafios climáticos do plantio à colheita</a>
+                                                                                <a href="https://www.tmg.agr.br/ptbr/noticia/cultivar-mais-plantada-do-brasil-gera-mais-rentabilidade-frente-a-concorrente">Cultivar mais plantada do Brasil gera mais rentabilidade frente à concorrente</a>
+                                                                    
+                        </div>
+<!--                        <h2 class="background-text-blue">Newsletter:</h2>-->
+                    </div>
+                </div>
+            </div>
+        </section>        
+<footer id="footer" class="d-print-none">
+    <div class="widget-area gradient-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="tm-widget wow fadeIn" data-wow-duration=".5s" data-wow-delay=".3s">
+                        <div class="tm-widget-text">
+                            <h2 class="text-center" style="font-size: 3em">#tmgenetica</h2>
+                            <h2 class="text-center">Além da Produtividade</h2>
+                            <div class="pb-3"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <p class="copyright-text">&copy; 2022 TMG Tropical Melhoramento &amp; Genética S.A.</p>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <div class="copyright-nav">
+                        <ul>
+<!--                            <li><a href="#" target="_blank">Instagram</a></li>
+                            <li><a href="#" target="_blank">Facebook</a></li>
+                            <li><a href="#" target="_blank">LinkedIn</a></li>
+                            <li><a href="#" target="_blank">Youtube</a></li>
+                            <li><a href="#" target="_blank">Flickr</a></li>-->
+                            <li><a href="https://www.tmg.agr.br/ptbr/privacidade">Política de Privacidade</a></li>
+                            <li><a href="javascript:window.Confirmic('ConsentManager:show')">Cookies</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Integrate</a></li>
+                            <li><a href="https://www.tmg.agr.br/ptbr/portais">Portais</a></li>
+                            <!-- <li><a href="https://novostalentos.tmg.agr.br" target="_blank">Programa Novos Talentos</a></li> -->
+                            <li><a href="http://www.tmg.agr.br/trabalheconosco" target="_blank">Trabalhe Conosco</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-2.2.0.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.easing.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/jquery/jquery.mobile.custom.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/vide/jquery.vide.min.js"></script>
+
+        <script src="https://www.tmg.agr.br/vendor/lity/lity.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/parallax/parallax.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/isotope/isotope.pkgd.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/isotope/portfolio.js"></script>
+    <script src="https://www.tmg.agr.br/vendor/sweetalert2/sweetalert2.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/tether/tether.min.js"></script>
+<script src="https://www.tmg.agr.br/vendor/popper/popper.min.js"></script>
+
+<script src="https://www.tmg.agr.br/vendor/wow/wow.min.js"></script>
+<script>new WOW().init();</script>
+<script src="https://www.tmg.agr.br/vendor/styles/scripts.js?6657726071"></script>
+
+        <script>
+            $('#register-email-n').submit(function (e) {
+                e.preventDefault();
+                $('#btn-register-email').attr('disabled', 'disabled');
+                var formRegister = $(this);
+                formRegister.append('<div class="register-email-return col-12 mt-4"><div class="loader">Carregando...</div></div>');
+                $.ajax({
+                    method: "POST",
+                    url: "https://www.tmg.agr.br/ptbr/newsletter/register",
+                    data: formRegister.serialize()
+                }).done(function (response) {
+                    if (response.status == "success") {
+                        var responseTextClass = "background-text-green";
+                        $('#newsletter-email').val('');
+                    } else {
+                        var responseTextClass = "background-text-orange";
+                    }
+                    $('.register-email-return').html('<h2 class="' + responseTextClass + '">' + response.msg + '</h2>');
+                }).fail(function () {
+                    $('.register-email-return').html('<h2 class="background-text-orange">Erro ao cadatrar seu e-mail, tente novamente.</h2>');
+                }).always(function () {
+                    setTimeout(function () {
+                        formRegister.find('.register-email-return').fadeOut('slow').remove();
+                    }, 3000);
+                    $('#btn-register-email').removeAttr('disabled');
+                });
+            });
+        </script>
+        
+    </body>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-12814928-1', 'auto');
+        ga('send', 'pageview');
+    </script>    
+</html>
